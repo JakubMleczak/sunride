@@ -1,0 +1,82 @@
+[08-Oct-2020 12:52:38 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 27
+[08-Oct-2020 12:52:38 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 97
+[08-Oct-2020 12:52:38 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 97
+[08-Oct-2020 12:52:38 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_SERVERPATH - assumed 'EXAMPLE_TMP_SERVERPATH' in /webusers/co6sun/public_html/tnt/create.php on line 101
+[08-Oct-2020 12:52:38 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_URLRELPATH - assumed 'EXAMPLE_TMP_URLRELPATH' in /webusers/co6sun/public_html/tnt/create.php on line 109
+[08-Oct-2020 12:56:42 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 12:56:42 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 12:56:42 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 12:56:42 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_SERVERPATH - assumed 'EXAMPLE_TMP_SERVERPATH' in /webusers/co6sun/public_html/tnt/create.php on line 102
+[08-Oct-2020 12:56:42 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_URLRELPATH - assumed 'EXAMPLE_TMP_URLRELPATH' in /webusers/co6sun/public_html/tnt/create.php on line 110
+[08-Oct-2020 12:58:59 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 12:58:59 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 12:58:59 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 12:58:59 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_SERVERPATH - assumed 'EXAMPLE_TMP_SERVERPATH' in /webusers/co6sun/public_html/tnt/create.php on line 102
+[08-Oct-2020 12:58:59 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_URLRELPATH - assumed 'EXAMPLE_TMP_URLRELPATH' in /webusers/co6sun/public_html/tnt/create.php on line 110
+[08-Oct-2020 13:00:37 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:00:37 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:00:37 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:00:37 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_SERVERPATH - assumed 'EXAMPLE_TMP_SERVERPATH' in /webusers/co6sun/public_html/tnt/create.php on line 102
+[08-Oct-2020 13:00:37 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_URLRELPATH - assumed 'EXAMPLE_TMP_URLRELPATH' in /webusers/co6sun/public_html/tnt/create.php on line 110
+[08-Oct-2020 13:03:43 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:03:43 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:03:43 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:03:43 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_SERVERPATH - assumed 'EXAMPLE_TMP_SERVERPATH' in /webusers/co6sun/public_html/tnt/create.php on line 102
+[08-Oct-2020 13:17:45 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:17:45 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:17:45 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:17:45 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_SERVERPATH - assumed 'EXAMPLE_TMP_SERVERPATH' in /webusers/co6sun/public_html/tnt/create.php on line 102
+[08-Oct-2020 13:17:46 Europe/London] PHP Notice:  Undefined variable: file in /webusers/co6sun/public_html/tnt/create.php on line 124
+[08-Oct-2020 13:17:46 Europe/London] PHP Warning:  readfile(): Filename cannot be empty in /webusers/co6sun/public_html/tnt/create.php on line 124
+[08-Oct-2020 13:19:52 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:19:52 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:19:52 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:19:52 Europe/London] PHP Notice:  Use of undefined constant EXAMPLE_TMP_SERVERPATH - assumed 'EXAMPLE_TMP_SERVERPATH' in /webusers/co6sun/public_html/tnt/create.php on line 102
+[08-Oct-2020 13:31:56 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:31:56 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:31:56 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:31:56 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 13:32:34 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:32:34 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:32:34 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:32:34 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 13:33:10 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:33:10 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:33:10 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:33:10 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 13:35:07 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:35:07 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:35:07 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:35:07 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 13:36:26 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:36:26 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:36:26 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:36:26 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 13:40:32 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:40:32 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:40:32 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:40:32 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 13:42:05 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:42:05 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:42:05 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:42:05 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 13:43:38 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:43:38 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:43:38 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:43:38 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 13:54:12 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:54:12 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:54:12 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:54:12 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 13:54:52 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 28
+[08-Oct-2020 13:54:52 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:54:52 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 98
+[08-Oct-2020 13:54:52 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 107
+[08-Oct-2020 14:12:16 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 29
+[08-Oct-2020 14:12:16 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 99
+[08-Oct-2020 14:12:16 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 99
+[08-Oct-2020 14:12:16 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 108
+[29-Nov-2020 16:20:47 Europe/London] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /webusers/co6sun/public_html/tnt/create.php on line 29
+[29-Nov-2020 16:20:47 Europe/London] PHP Warning:  include(QR/phpqrcode/config.php): failed to open stream: No such file or directory in /webusers/co6sun/public_html/tnt/create.php on line 99
+[29-Nov-2020 16:20:47 Europe/London] PHP Warning:  include(): Failed opening 'QR/phpqrcode/config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /webusers/co6sun/public_html/tnt/create.php on line 99
+[29-Nov-2020 16:20:47 Europe/London] PHP Notice:  Undefined variable: tempDir in /webusers/co6sun/public_html/tnt/create.php on line 108

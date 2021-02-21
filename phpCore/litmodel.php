@@ -1,0 +1,1 @@
+<div class="filterDiv <?php echo $pic?>"><a href="<?php echo $location?>"><img src="<?php echo $name?>"></a></div>

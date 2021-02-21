@@ -1,0 +1,1 @@
+<div class="filterDiv <?php echo $name ?> <?php echo $pic ?>" style="height: 200px;overflow: hidden;" ><a href="<?php echo $location ?>"><img style="min-height: 100%;min-width: 100%;"src="<?php echo $location ?>"></a></div>

@@ -1,0 +1,179 @@
+[23-Aug-2020 15:53:02 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 55
+[23-Aug-2020 15:53:02 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 62
+[23-Aug-2020 15:53:21 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 55
+[23-Aug-2020 15:53:21 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 62
+[23-Aug-2020 15:53:26 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 55
+[23-Aug-2020 15:53:26 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 62
+[23-Aug-2020 15:54:06 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 56
+[23-Aug-2020 15:54:06 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 63
+[23-Aug-2020 15:54:11 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 56
+[23-Aug-2020 15:54:11 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 63
+[23-Aug-2020 15:54:52 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 26
+[23-Aug-2020 15:54:52 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 33
+[23-Aug-2020 15:55:18 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 56
+[23-Aug-2020 15:55:18 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 63
+[23-Aug-2020 16:10:37 Europe/London] PHP Warning:  unlink(../../): Is a directory in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 79
+[23-Aug-2020 16:13:34 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 26
+[23-Aug-2020 16:13:34 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 33
+[23-Aug-2020 16:27:08 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 26
+[23-Aug-2020 16:27:08 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 33
+[23-Aug-2020 16:52:17 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 125
+[23-Aug-2020 16:55:25 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 125
+[23-Aug-2020 16:55:31 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 125
+[23-Aug-2020 16:56:43 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 125
+[23-Aug-2020 16:58:11 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 125
+[23-Aug-2020 18:51:09 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 125
+[23-Aug-2020 18:51:47 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 125
+[23-Aug-2020 18:52:29 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 125
+[23-Aug-2020 18:54:43 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 125
+[23-Aug-2020 19:00:45 Europe/London] PHP Notice:  Undefined variable: POST_ in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 119
+[23-Aug-2020 19:23:26 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[23-Aug-2020 19:23:31 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[23-Aug-2020 19:26:02 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 61
+[23-Aug-2020 19:26:07 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 112
+[23-Aug-2020 19:26:52 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 61
+[23-Aug-2020 19:26:54 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 112
+[23-Aug-2020 19:28:21 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 61
+[23-Aug-2020 19:28:24 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 112
+[23-Aug-2020 19:29:09 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 61
+[23-Aug-2020 19:29:12 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 112
+[23-Aug-2020 19:32:05 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 61
+[23-Aug-2020 19:32:07 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 112
+[23-Aug-2020 19:36:57 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 112
+[23-Aug-2020 20:48:12 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 112
+[23-Aug-2020 20:48:13 Europe/London] PHP Notice:  Undefined variable: title1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 170
+[23-Aug-2020 20:48:13 Europe/London] PHP Notice:  Undefined variable: info1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 170
+[23-Aug-2020 20:48:13 Europe/London] PHP Notice:  Undefined variable: img1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 170
+[23-Aug-2020 20:48:13 Europe/London] PHP Notice:  Undefined variable: setting1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 170
+[23-Aug-2020 20:48:13 Europe/London] PHP Warning:  unlink(../../): Is a directory in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 173
+[23-Aug-2020 20:48:20 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 112
+[23-Aug-2020 20:52:32 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[23-Aug-2020 20:53:30 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[23-Aug-2020 20:57:44 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[23-Aug-2020 20:57:52 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[23-Aug-2020 21:02:43 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[23-Aug-2020 21:04:04 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[23-Aug-2020 21:04:15 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[23-Aug-2020 21:05:24 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[24-Aug-2020 16:30:08 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/updateupload.php on line 31
+[24-Aug-2020 16:38:05 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 26
+[24-Aug-2020 16:38:05 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 33
+[24-Aug-2020 16:40:37 Europe/London] PHP Warning:  unlink(../../sdxcsdcsdc): No such file or directory in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 79
+[24-Aug-2020 16:43:43 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[24-Aug-2020 16:45:48 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[24-Aug-2020 16:48:46 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 111
+[24-Aug-2020 16:53:19 Europe/London] PHP Notice:  Undefined index: bro in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 113
+[24-Aug-2020 21:10:53 Europe/London] PHP Notice:  Undefined variable: title1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:10:53 Europe/London] PHP Notice:  Undefined variable: info1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:10:53 Europe/London] PHP Notice:  Undefined variable: img1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:10:53 Europe/London] PHP Notice:  Undefined variable: setting1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:10:53 Europe/London] PHP Warning:  unlink(../../54gwesvrewgv): No such file or directory in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 175
+[24-Aug-2020 21:10:54 Europe/London] PHP Notice:  Undefined variable: title1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:10:54 Europe/London] PHP Notice:  Undefined variable: info1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:10:54 Europe/London] PHP Notice:  Undefined variable: img1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:10:54 Europe/London] PHP Notice:  Undefined variable: setting1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:10:54 Europe/London] PHP Warning:  unlink(../../): Is a directory in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 175
+[24-Aug-2020 21:11:12 Europe/London] PHP Notice:  Undefined variable: title1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:11:12 Europe/London] PHP Notice:  Undefined variable: info1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:11:12 Europe/London] PHP Notice:  Undefined variable: img1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:11:12 Europe/London] PHP Notice:  Undefined variable: setting1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 172
+[24-Aug-2020 21:11:12 Europe/London] PHP Warning:  unlink(../../): Is a directory in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 175
+[24-Aug-2020 21:11:19 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:11:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:11:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:11:32 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:11:37 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:12:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:12:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:12:29 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:12:33 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:12:36 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:12:39 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 74
+[24-Aug-2020 21:17:40 Europe/London] PHP Warning:  unlink(../../retgwrfd2wqarcdx): No such file or directory in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 79
+[24-Aug-2020 21:17:55 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 26
+[24-Aug-2020 21:17:55 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 33
+[24-Aug-2020 21:20:04 Europe/London] PHP Warning:  unlink(../../shu/pics/amy.jpg): No such file or directory in /webusers/co6sun/public_html/phpCore/Logins/deletecontent.php on line 79
+[24-Aug-2020 21:21:16 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/updateupload.php on line 31
+[24-Aug-2020 21:26:42 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 30
+[24-Aug-2020 21:26:42 Europe/London] PHP Notice:  Undefined index: info in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 31
+[24-Aug-2020 21:26:42 Europe/London] PHP Notice:  Undefined index: img in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 32
+[24-Aug-2020 21:26:42 Europe/London] PHP Notice:  Undefined index: setting in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 33
+[24-Aug-2020 21:26:45 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 30
+[24-Aug-2020 21:26:45 Europe/London] PHP Notice:  Undefined index: info in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 31
+[24-Aug-2020 21:26:45 Europe/London] PHP Notice:  Undefined index: img in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 32
+[24-Aug-2020 21:26:45 Europe/London] PHP Notice:  Undefined index: setting in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 33
+[24-Aug-2020 21:26:47 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 30
+[24-Aug-2020 21:26:47 Europe/London] PHP Notice:  Undefined index: info in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 31
+[24-Aug-2020 21:26:47 Europe/London] PHP Notice:  Undefined index: img in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 32
+[24-Aug-2020 21:26:47 Europe/London] PHP Notice:  Undefined index: setting in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 33
+[24-Aug-2020 21:26:47 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 131
+[24-Aug-2020 21:27:17 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 30
+[24-Aug-2020 21:27:17 Europe/London] PHP Notice:  Undefined index: info in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 31
+[24-Aug-2020 21:27:17 Europe/London] PHP Notice:  Undefined index: img in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 32
+[24-Aug-2020 21:27:17 Europe/London] PHP Notice:  Undefined index: setting in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 33
+[24-Aug-2020 21:27:19 Europe/London] PHP Notice:  Undefined index: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 30
+[24-Aug-2020 21:27:19 Europe/London] PHP Notice:  Undefined index: info in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 31
+[24-Aug-2020 21:27:19 Europe/London] PHP Notice:  Undefined index: img in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 32
+[24-Aug-2020 21:27:19 Europe/London] PHP Notice:  Undefined index: setting in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 33
+[24-Aug-2020 21:34:16 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 135
+[24-Aug-2020 21:34:54 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 135
+[24-Aug-2020 21:43:39 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 132
+[24-Aug-2020 21:47:44 Europe/London] PHP Notice:  Undefined variable: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 129
+[24-Aug-2020 21:47:50 Europe/London] PHP Notice:  Undefined variable: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 129
+[24-Aug-2020 21:47:56 Europe/London] PHP Notice:  Undefined variable: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 129
+[24-Aug-2020 21:48:43 Europe/London] PHP Notice:  Undefined variable: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 129
+[24-Aug-2020 21:48:52 Europe/London] PHP Notice:  Undefined variable: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 129
+[24-Aug-2020 22:23:15 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 26
+[24-Aug-2020 22:23:15 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 33
+[24-Aug-2020 22:45:45 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/updateupload.php on line 31
+[24-Aug-2020 23:20:32 Europe/London] PHP Notice:  Undefined variable: titleS in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 116
+[24-Aug-2020 23:20:32 Europe/London] PHP Notice:  Undefined variable: titleS in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 130
+[24-Aug-2020 23:20:40 Europe/London] PHP Notice:  Undefined variable: titleS in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 116
+[24-Aug-2020 23:20:40 Europe/London] PHP Notice:  Undefined variable: titleS in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 130
+[24-Aug-2020 23:30:24 Europe/London] PHP Notice:  Undefined variable: titleS in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 116
+[24-Aug-2020 23:30:24 Europe/London] PHP Notice:  Undefined variable: titleS in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 130
+[24-Aug-2020 23:30:33 Europe/London] PHP Notice:  Undefined variable: titleS in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 116
+[24-Aug-2020 23:30:33 Europe/London] PHP Notice:  Undefined variable: titleS in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 130
+[24-Aug-2020 23:44:27 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:44:30 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:44:50 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:44:52 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:44:55 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:45:04 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:45:05 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:45:05 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:45:08 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:45:11 Europe/London] PHP Notice:  Undefined index: titl in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:45:26 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:45:28 Europe/London] PHP Notice:  Undefined index: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 62
+[24-Aug-2020 23:47:48 Europe/London] PHP Notice:  Undefined variable: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 63
+[24-Aug-2020 23:47:51 Europe/London] PHP Notice:  Undefined variable: titl1 in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 63
+[24-Aug-2020 23:49:56 Europe/London] PHP Notice:  Undefined variable: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 132
+[24-Aug-2020 23:50:02 Europe/London] PHP Notice:  Undefined variable: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 132
+[24-Aug-2020 23:50:08 Europe/London] PHP Notice:  Undefined variable: title in /webusers/co6sun/public_html/phpCore/Logins/editcontent.php on line 132
+[01-Sep-2020 00:10:49 Europe/London] PHP Notice:  A session had already been started - ignoring session_start() in /webusers/co6sun/public_html/phpCore/Logins/login.php on line 126
+[25-Sep-2020 16:21:34 Europe/London] PHP Notice:  Undefined index: pos in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 26
+[25-Sep-2020 16:21:34 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/contentupload.php on line 33
+[25-Sep-2020 18:45:17 Europe/London] PHP Notice:  Undefined index: year in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 24
+[25-Sep-2020 18:45:17 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 28
+[25-Sep-2020 18:49:39 Europe/London] PHP Notice:  Undefined index: year in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 24
+[25-Sep-2020 18:49:39 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 29
+[25-Sep-2020 18:52:45 Europe/London] PHP Notice:  Undefined index: year in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 24
+[25-Sep-2020 18:52:45 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 29
+[25-Sep-2020 18:54:12 Europe/London] PHP Notice:  Undefined index: year in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 24
+[25-Sep-2020 18:54:12 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 29
+[25-Sep-2020 18:54:14 Europe/London] PHP Notice:  Undefined index: year in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 24
+[25-Sep-2020 18:54:14 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 29
+[25-Sep-2020 18:54:14 Europe/London] PHP Notice:  Undefined index: year in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 24
+[25-Sep-2020 18:54:14 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 29
+[25-Sep-2020 18:54:15 Europe/London] PHP Notice:  Undefined index: year in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 24
+[25-Sep-2020 18:54:15 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 29
+[25-Sep-2020 18:55:20 Europe/London] PHP Notice:  Undefined index: year in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 24
+[25-Sep-2020 18:55:20 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 29
+[25-Sep-2020 18:55:22 Europe/London] PHP Notice:  Undefined index: year in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 24
+[25-Sep-2020 18:55:22 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 29
+[25-Sep-2020 18:56:40 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 25
+[25-Sep-2020 18:56:40 Europe/London] PHP Notice:  Undefined variable: target_dir in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 25
+[25-Sep-2020 19:02:08 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 27
+[25-Sep-2020 19:03:10 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 27
+[25-Sep-2020 19:05:58 Europe/London] PHP Notice:  Undefined index: fileToUpload in /webusers/co6sun/public_html/phpCore/Logins/galleryupload.php on line 27
