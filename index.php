@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 $title = "Team SunrIde"
@@ -156,7 +155,7 @@ $title = "Team SunrIde"
 						<div class="main-gallery js-flickity" data-flickity-options='{"wrapAround": "true", "cellAlign": "left", "contain": true, "autoPlay": "true", "autoPlay": "1500" }'>
 							<div class="gallery-cell">
 								<a href="notyet">
-									<img src="Team Sunride_files/mid2.jpg" alt="rocket photo">
+									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
 								</a>
@@ -166,38 +165,38 @@ $title = "Team SunrIde"
 							</div>
 							<div class="gallery-cell">
 								<a href="notyet">
-									<img src="Team Sunride_files/mid2.jpg" alt="rocket photo">
+									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
 								</a>
 							</div>
 							<div class="gallery-cell"><a href="notyet">
-									<img src="Team Sunride_files/mid2.jpg" alt="rocket photo">
+									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
 								</a></div>
 							<div class="gallery-cell"><a href="notyet">
-									<img src="Team Sunride_files/mid2.jpg" alt="rocket photo">
+									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
 								</a></div>
 							<div class="gallery-cell"><a href="notyet">
-									<img src="Team Sunride_files/mid2.jpg" alt="rocket photo">
+									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
 								</a></div>
 							<div class="gallery-cell"><a href="notyet">
-									<img src="Team Sunride_files/mid2.jpg" alt="rocket photo">
+									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
 								</a></div>
 							<div class="gallery-cell"><a href="notyet">
-									<img src="Team Sunride_files/mid2.jpg" alt="rocket photo">
+									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
 								</a></div>
 							<div class="gallery-cell"><a href="notyet">
-									<img src="Team Sunride_files/mid2.jpg" alt="rocket photo">
+									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
 								</a></div>
@@ -593,8 +592,6 @@ $title = "Team SunrIde"
 	<script type="text/javascript" src="assets/plugins/isotope/jquery.isotope.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.form.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.validate.min.js"></script>
-=======
 acsds
->>>>>>> parent of 1b2ce22 (first day)
 
 </body>
