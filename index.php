@@ -158,6 +158,7 @@ $title = "Team SunrIde"
 									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 
 
@@ -168,38 +169,57 @@ $title = "Team SunrIde"
 									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							<div class="gallery-cell"><a href="notyet">
+							<div class="gallery-cell">
+								<a href="notyet">
 									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
-								</a></div>
-							<div class="gallery-cell"><a href="notyet">
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<div class="gallery-cell">
+								<a href="notyet">
 									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
-								</a></div>
-							<div class="gallery-cell"><a href="notyet">
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<div class="gallery-cell">
+								<a href="notyet">
 									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
-								</a></div>
-							<div class="gallery-cell"><a href="notyet">
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<div class="gallery-cell">
+								<a href="notyet">
 									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
-								</a></div>
-							<div class="gallery-cell"><a href="notyet">
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<div class="gallery-cell">
+								<a href="notyet">
 									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
-								</a></div>
-							<div class="gallery-cell"><a href="notyet">
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<div class="gallery-cell">
+								<a href="notyet">
 									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
-								</a></div>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
 
 						</div>
 
@@ -207,12 +227,20 @@ $title = "Team SunrIde"
 
 					<div class="section-row-container" style="background-color:#C6CAD5;">
 
-
+					
 						<section class="grid-1">
-							<div class="item-1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus laudantium nemo praesentium voluptas pariatur sunt nesciunt, soluta corporis molestiae quam, velit ut, beatae enim. Ipsum pariatur sit iste in voluptatem.</div>
-							<div class="item-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus perferendis voluptate aperiam aut delectus magni rem voluptatum. Explicabo totam voluptates doloremque quibusdam saepe ex reiciendis, eos obcaecati, neque sapiente molestiae.</div>
-							<div class="item-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero, minus voluptate. Facilis consequatur eius corporis eligendi. Vero, quia perspiciatis. Officia eius minima sunt vitae molestiae laboriosam quae ut inventore eaque.</div>
-							<div class="item-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat itaque provident repellat, neque ad distinctio consequuntur iusto reiciendis hic perferendis sequi dignissimos sed, magnam ullam dolores, debitis consequatur incidunt quaerat!</div>
+							<div class="item-1">
+								The first UK team in history to participate in the largest rocket engineering competition in the world.
+							</div>
+							<div class="item-2">
+								Award winner of the Best Flight Dynamics at Spaceport America Cup 2018 for achieving an accuracy of 99.83% at 10,000ft.
+							</div>
+							<div class="item-3">
+								According to UKRA, SunrIde holds the UK National Altitude Record for rocketry since 2019 at 36,274ft reaching 2.67 Mach.
+							</div>
+							<div class="item-4">
+								In 2023 SunrIde aspires to become the 1st UK University team to reach the Kármán line at 100km! (50 km test in 2021.)
+							</div>
 
 						</section>
 
@@ -592,6 +620,6 @@ $title = "Team SunrIde"
 	<script type="text/javascript" src="assets/plugins/isotope/jquery.isotope.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.form.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.validate.min.js"></script>
-acsds
+	acsds
 
 </body>
