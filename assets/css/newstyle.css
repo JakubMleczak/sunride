@@ -33,7 +33,6 @@
     margin: 0;
     margin-top: 20px;
     margin-left: 20px;
-    
     font-weight: bold;
 }
 
@@ -44,16 +43,19 @@
     margin-left: 20px;
     margin-right: 20px;
 }
-.read-more{
+
+.read-more {
     position: absolute;
     bottom: 20px;
     margin-left: 20px;
     color: black;
 }
-.gallery-cell .arrow{
+
+.gallery-cell .arrow {
     width: 15px;
     height: 15px;
 }
+
 /* cell number */
 
 .gallery-cell:before {
@@ -85,8 +87,6 @@
     }
 }
 
-/* end of flickery setup */
-
 /* top info grid system */
 
 .grid-1 {
@@ -113,7 +113,7 @@
 }
 
 .grid-1 div:nth-child(2n) {
-    background-color:#f3f3f3;
+    background-color: #f3f3f3;
     color: #325286;
 }
 
@@ -129,8 +129,6 @@
     }
 }
 
-/*end of  top info grid system */
-
 /* nav css */
 
 .brand img {
@@ -142,4 +140,65 @@ nav {
     font-size: 10px;
 }
 
-/* end nav css */
+.container2 {
+    margin-left: 12vw;
+    margin-right: 12vw;
+}
+
+/* Who are we  */
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.text-grid {
+    padding-right: 50px;
+}
+
+.grid img {
+    border-radius: 10px;
+}
+
+/* sponsor */
+
+.sponsor {
+    background-color: rgb(255, 70, 70);
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+
+.sponsor a h2 {
+    font-size: 80px;
+    color: black;
+}
+
+.sponsor div {
+    padding: 30px;
+    padding-top: 140px;
+}
+
+/* current sponsors */
+
+.sponsor-grid {
+    margin: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 40px;
+    row-gap: 45px;
+}
+.info{
+    text-align: center;
+}
+.sponsor-grid>div {
+    height: 300px;
+    margin: 30px;
+}
+
+.sponsor-img {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
