@@ -14,7 +14,7 @@ body {
     width:100%;
     height:100%;
     background-color:#fff;
-    background-image:url(../img/preload.gif);
+    /* background-image:url(../img/preload.gif); */
     background-position:50%;
     background-repeat:no-repeat
 }
@@ -484,7 +484,7 @@ ul.check-list li:before {
     margin:auto
 }
 .site-footer .social-list {
-    margin-top:30px;
+    /* margin-top:30px; */
     text-align:center
 }
 .site-footer .social-list ul {

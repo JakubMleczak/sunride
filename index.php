@@ -42,7 +42,7 @@ $title = "Team SunrIde"
 							<div class="splash-text">
 
 								<h4 class="splash-intro">
-									<a href="http://sunride.group.shef.ac.uk/#">SAC 2020</a>
+									<a href="http://sunride.group.shef.ac.uk/#">SAC 2021</a>
 								</h4>
 								<img scr="demo/TEST/4.png">
 								<h1 class="splash-headline">SPACEPORT
