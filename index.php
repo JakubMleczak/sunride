@@ -225,7 +225,7 @@ $title = "Team SunrIde"
 
 					</div>
 
-					<div class="section-row-container" style="background-color:#C6CAD5;">
+					<div class="section-row-container div-color" >
 
 
 						<section class="grid-1">
@@ -288,14 +288,14 @@ $title = "Team SunrIde"
 								</div>
 							</div>
 						</section>
-						<section class="section" style="background-color:#C6CAD5;">
+						<section class="section div-color">
 							<div class="row">
 								<div class="col-xl-12">
 									<div class="section-row-container">
 
-										<div class="section-row half-padding-bottom">
+										<div class="section-row div-color half-padding-bottom ">
 
-											<div class="container2">
+											<div class="container2 ">
 
 												<div class="row">
 
@@ -501,6 +501,7 @@ $title = "Team SunrIde"
 
 	<script type="text/javascript" src="assets/js/jquery-1.11.0.min.js"></script>
 	<script type="text/javascript" src="assets/js/hydrogen.packed.min.js"></script>
+	<script type="text/javascript" src="assets/js/darkmode.js"></script>
 
 	<script type="text/javascript" src="assets/plugins/royalslider/jquery.royalslider.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/mfp/jquery.mfp-0.9.9.js"></script>
@@ -510,6 +511,7 @@ $title = "Team SunrIde"
 	<script type="text/javascript" src="assets/plugins/isotope/jquery.isotope.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.form.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.validate.min.js"></script>
+	
 
 
 </body>

@@ -1,4 +1,4 @@
-<header class="site-header" style="overflow:hidden; padding:0px;margin:0px;min-height: 1%">
+<header class="site-header" style=" padding:0px;margin:0px;min-height: 1%">
 
 	<div class="header-inner">
 
@@ -25,7 +25,7 @@
 								<a href="rockets.php">Our Rockets</a>
 								<span class="sub-toggle"></span>
 
-								<ul>
+								<ul class="sub-toggle-color">
 									<li><a href="sunfire.php">SunFire 2020/21 </a></li>
 									<li><a href="gagarin.php">Karman Alpha 2021/22</a></li>
 									<li><a href="vesna.php">Vesna 2020/21</a></li>
@@ -48,7 +48,7 @@
 							<li><a href="news.html">Partners</a></li>
 							<li><a href="news.html">Sponsors</a></li>
 							<li><a href="news.html">About</a></li>
-							<li>
+							<li class="dark">
 								<div class="theme-switch-wrapper">
 									<label class="theme-switch" for="checkbox">
 										<input type="checkbox" id="checkbox" />
