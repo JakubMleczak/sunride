@@ -165,10 +165,10 @@ $title = "Team SunrIde"
 
 							</div>
 							<div class="gallery-cell">
-								<a href="notyet">
-									<img src="mid2.jpg" alt="rocket photo">
-									<h1>Amy</h1>
-									<h2>Our first high powered rocket</h2>
+								<a href="helen.php">
+									<img src="mid4.jpg" alt="rocket photo">
+									<h1>Helen</h1>
+									<h2>Our word breaking achivment</h2>
 									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
