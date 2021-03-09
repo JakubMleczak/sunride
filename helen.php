@@ -16,7 +16,7 @@ $title = "Team SunrIde"
 
 <body>
 
-	<div class="site-loader"></div>
+
 
 
 
@@ -96,28 +96,29 @@ $title = "Team SunrIde"
 											<iframe src="<?php echo $vidlink ?>" width="560" height="315" frameBorder="0" autoplay="disabled" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 										</div>
 									</div>
-									<div class="row numbers">
 
-										<div class="col-md-4 col-sm-6">
-											<div class="counter" data-animation-name="fadeInUp">
-												<span class="number"><?php echo $Rn1 ?></span>
-												<span class="label"><b><?php echo $Rp1 ?></b></span>
-											</div>
-										</div>
-										<div class="col-md-4 col-sm-6">
-											<div class="counter" data-animation-name="fadeInUp">
-												<span class="number"><?php echo $Rn2 ?></span>
-												<span class="label"><b><?php echo $Rp2 ?></b></span>
-											</div>
-										</div>
+								</div>
 
-										<div class="col-md-4 col-sm-6">
-											<div class="counter" data-animation-name="fadeInUp">
-												<span class="number"><?php echo $Rn3 ?></span>
-												<span class="label"><b><?php echo $Rp3 ?></b></b></span>
-											</div>
-										</div>
+							</div>
+							<div class="grid-numbers">
 
+								<div>
+									<div class="counter" data-animation-name="fadeInUp">
+										<span class="number"><?php echo $Rn1 ?></span>
+										<span class="label"><b><?php echo $Rp1 ?></b></span>
+									</div>
+								</div>
+								<div>
+									<div class="counter" data-animation-name="fadeInUp">
+										<span class="number"><?php echo $Rn2 ?></span>
+										<span class="label"><b><?php echo $Rp2 ?></b></span>
+									</div>
+								</div>
+
+								<div>
+									<div class="counter" data-animation-name="fadeInUp">
+										<span class="number"><?php echo $Rn3 ?></span>
+										<span class="label"><b><?php echo $Rp3 ?></b></b></span>
 									</div>
 								</div>
 
@@ -151,100 +152,60 @@ $title = "Team SunrIde"
 							</div>
 
 							<?php
-							$servername = "localhost";
-							$username = "root";
-							$password = "";
-							$namee = "sunride";
+							include('phpCore/conn.php');
 
-
-
-							$conn = mysqli_connect($servername, $username, $password, $namee);
-							mysqli_set_charset($conn, 'utf8');
-
-							echo mysqli_error($conn);
-							if (!$conn) {
-
-								die("Connection failed: " . mysqli_connect_error());
-								echo "wyeba";
-							}
 							?>
 							<h1 class="section-title top-margin-big">
 								<span data-shadow-text="The Team">The Team</span>
 							</h1>
 
-							<h2 class="top-margin">
-								<span data-shadow-text="Design & Manufacturing">Design & Manufacturing</span>
-							</h2>
+
 							<div class="photo-grid">
 								<?php
 
-								$sql4 = "SELECT `Name`, `Linkedin`, `Photo`, `Role` FROM `team` INNER JOIN `Members` ON `team`.`Member_ID`=`Members`.`ID` Where `Project` = 1;
+								$sql4 = "SELECT `Name`, `Linkedin`, `Photo`, `Role` FROM `team` INNER JOIN `members` ON `team`.`Member_ID`=`members`.`ID` Where `Project` = 1 Order by `Member_ID`;
 								";
 								$result3 = mysqli_query($conn, $sql4);
+								?>
 
+
+								<?php
 								while ($opt = mysqli_fetch_assoc($result3)) {
-									for ($i = 0; $i < 5; $i++) {
 
 
-echo <<<HTML
+
+									echo <<<HTML
 								<div>
 									<img src="$opt[Photo]" alt="">
-									<div>
+									<div class="ph-des">
 										$opt[Name]
 									</div>
-									<div>
+									<div class="ph-role">
 										$opt[Role]
 									</div>
-									<div>
-									<a href="$opt[Linkedin]">Linkedin</a>
-									</div>
-								</div>
+									
 
 HTML;
+									if ($opt["Linkedin"] != null) {
+										echo <<<HTML
+									<div>
+								<a href="$opt[Linkedin]">Linkedin</a>
+									</div>
+								</div>
+HTML;
+									} else {
+										echo <<<ENDS
+								</div>
+ENDS;
 									}
 								}
+
 								?>
 
 
 
 							</div>
-							<h2 class="top-margin">
-								<span data-shadow-text="Design & Manufacturing">Avionics</span>
-							</h2>
-							<div class="photo-grid">
-								<?php
 
-								$sql4 = "SELECT `Name`, `Linkedin`, `Photo`, `Role` FROM `team` INNER JOIN `Members` ON `team`.`Member_ID`=`Members`.`ID` Where `Project` = 1;
-								";
-								$result3 = mysqli_query($conn, $sql4);
-
-								while ($opt = mysqli_fetch_assoc($result3)) {
-									for ($i = 0; $i < 5; $i++) {
-
-
-echo <<<HTML
-								<div>
-									<img src="$opt[Photo]" alt="">
-									<div>
-										$opt[Name]
-									</div>
-									<div>
-										$opt[Role]
-									</div>
-									<div>
-										<a href="$opt[Linkedin]">Linkedin</a>
-										
-									</div>
-								</div>
-
-HTML;
-									}
-								}
-								?>
-
-
-
-							</div>
 
 
 
