@@ -239,7 +239,7 @@ ENDS;
 
 	<script type="text/javascript" src="assets/js/jquery-1.11.0.min.js"></script>
 	<script type="text/javascript" src="assets/js/hydrogen.packed.min.js"></script>
-	<script type="text/javascript" src="assets/js/darkmode.js"></script>
+	<!-- <script type="text/javascript" src="assets/js/darkmode.js"></script> -->
 
 	<script type="text/javascript" src="assets/plugins/royalslider/jquery.royalslider.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/mfp/jquery.mfp-0.9.9.js"></script>

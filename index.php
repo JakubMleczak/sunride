@@ -80,7 +80,7 @@ $title = "Team SunrIde"
 								<div class="splash-description">
 									<p>Sheffield University Nova Rocket Innovative Design Engineering </p>
 									<p style="padding-top:20px;">The first student-led
-										<span class="text-primary"> Rocket Design Team</span> to represent the UK in the world's largest international university rocket competition
+										<span> Rocket Design Team</span> to represent the UK in the world's largest International University rocket competition
 										<br>
 										<span class="text-primary">22 - 26 June, 2021</span>
 									</p>
@@ -150,13 +150,13 @@ $title = "Team SunrIde"
 
 				<div class="section-row-container">
 
-					<div class="section-row">
+					<div class="top-margin bottom-margin">
 
 						<div class="main-gallery js-flickity" data-flickity-options='{"wrapAround": "true", "cellAlign": "left", "contain": true, "autoPlay": "true", "autoPlay": "1500" }'>
 							<div class="gallery-cell">
 								<a href="notyet">
-									<img src="mid2.jpg" alt="rocket photo">
-									<h1>Amy</h1>
+									<img src="Pics/amy.jpg" alt="rocket photo">
+									<h1>AMY</h1>
 									<h2>Our first high powered rocket</h2>
 									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
@@ -166,60 +166,61 @@ $title = "Team SunrIde"
 							</div>
 							<div class="gallery-cell">
 								<a href="helen.php">
-									<img src="mid4.jpg" alt="rocket photo">
-									<h1>Helen</h1>
-									<h2>Our word breaking achivment</h2>
+									<img src="Pics/helen.jpg" alt="rocket photo">
+									<h1>HELEN</h1>
+									<h2>Our world breaking achievement</h2>
 									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
 							<div class="gallery-cell">
+								<a href="notyet">
+									<img src="Pics/vesna3.png" alt="rocket photo">
+									<h1>VESNA</h1>
+									<h2>A highly-engineered mission</h2>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<div class="gallery-cell">
+								<a href="notyet">
+									<img src="Pics/karman2.jpg" alt="rocket photo">
+									<h1>Karman A.</h1>
+									<h2>Reaching for the stars</h2>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<div class="gallery-cell">
+								<a href="notyet">
+									<img src="Pics/jr.png" alt="rocket photo">
+									<h1>SunrIde Jr</h1>
+									<h2>Our Society Project</h2>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<div class="gallery-cell">
+								<a href="notyet">
+									<img src="Pics/EARL1.jpg" alt="rocket photo">
+									<h1>Space Dart</h1>
+									<h2>Spacefleet Ltd Partnership</h2>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<!-- <div class="gallery-cell">
+								<a href="notyet">
+									<img src="Pics/amy.jpg" alt="rocket photo">
+									<h1>Amy</h1>
+									<h2>Our first high powered rocket</h2>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div> -->
+							<!-- <div class="gallery-cell">
 								<a href="notyet">
 									<img src="mid2.jpg" alt="rocket photo">
 									<h1>Amy</h1>
 									<h2>Our first high powered rocket</h2>
 									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
-							</div>
-							<div class="gallery-cell">
-								<a href="notyet">
-									<img src="mid2.jpg" alt="rocket photo">
-									<h1>Amy</h1>
-									<h2>Our first high powered rocket</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
-								</a>
-							</div>
-							<div class="gallery-cell">
-								<a href="notyet">
-									<img src="mid2.jpg" alt="rocket photo">
-									<h1>Amy</h1>
-									<h2>Our first high powered rocket</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
-								</a>
-							</div>
-							<div class="gallery-cell">
-								<a href="notyet">
-									<img src="mid2.jpg" alt="rocket photo">
-									<h1>Amy</h1>
-									<h2>Our first high powered rocket</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
-								</a>
-							</div>
-							<div class="gallery-cell">
-								<a href="notyet">
-									<img src="mid2.jpg" alt="rocket photo">
-									<h1>Amy</h1>
-									<h2>Our first high powered rocket</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
-								</a>
-							</div>
-							<div class="gallery-cell">
-								<a href="notyet">
-									<img src="mid2.jpg" alt="rocket photo">
-									<h1>Amy</h1>
-									<h2>Our first high powered rocket</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
-								</a>
-							</div>
+							</div> -->
+							
 
 						</div>
 
@@ -236,7 +237,7 @@ $title = "Team SunrIde"
 								Award winner of the Best Flight Dynamics at Spaceport America Cup 2018 for achieving an accuracy of 99.83% at 10,000ft.
 							</div>
 							<div class="item-3">
-								According to UKRA, SunrIde holds the UK National Altitude Record for rocketry since 2019 at 36,274ft reaching 2.67 Mach.
+								SunrIde holds the UK National Altitude Record for rocketry since 2019 at 36,274ft reaching 2.67 Mach according to UKRA.
 							</div>
 							<div class="item-4">
 								In 2023 SunrIde aspires to become the 1st UK University team to reach the Kármán line at 100km! (50 km test in 2021.)
@@ -297,24 +298,24 @@ $title = "Team SunrIde"
 
 											<div class="container2 ">
 
-												<div class="row">
+												
 
-													<div class="col-lg-12">
+													
 
-														<h2 class="section-title">
+														<!-- <h2 class="section-title">
 															<span data-shadow-text="About Us">About Us</span>
-														</h2>
+														</h2> -->
 														<p class="lead" style="text-align:justify;">
-															SunrIde holds the National Altitude Record of UK amateur rocketry at 36,274ft in 2019 and has gained international recognition for the students' passionate endeavours. Here is their successful launch. SunrIde's primary goals are to push our limits for innovation, and to provide rocketry enthusiasts with the opportunity to learn about and become involved in the space industry.
+															<img class="img-sponsor" src="Pics/sponsorus.png" alt="">
 														</p>
 
 
 														</a>
 
-													</div>
+												
 
 
-												</div>
+												
 											</div>
 										</div>
 									</div>
@@ -328,7 +329,7 @@ $title = "Team SunrIde"
 					<div class="col-xl-12">
 						<div class="section-row-container">
 
-							<div class="section-row half-padding-bottom">
+							<div class="top-margin">
 
 								<div class="container2">
 
@@ -368,7 +369,7 @@ $title = "Team SunrIde"
 
 						<div class="container2">
 							<h1 class="section-title">
-								<span data-shadow-text="Our Sponsors">Our Sponsors</span>
+								<span data-shadow-text="Our Sponsors">Collaborations</span>
 							</h1>
 							<p class="lead"> Thanks to our wonderful sponsors! We extend our sincere appreciation to them.</p>
 						</div>
@@ -391,7 +392,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="https://www.sheffield.ac.uk/faculty/engineering" target="_blank">
-												<img src="demo/clients/3.png" alt="FACULTY OF ENGINEERING">
+												<img   class="img-round" src="demo/clients/3.png" alt="FACULTY OF ENGINEERING">
 											</a>
 										</div>
 
@@ -403,7 +404,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="https://www.ansys.com" target="_blank">
-												<img src="demo/clients/4.png" alt="ANSYS" >
+												<img  class="img-round" src="demo/clients/4.png" alt="ANSYS" >
 											</a>
 										</div>
 
@@ -428,7 +429,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="http://www.accomposites.co.uk/" target="_blank">
-												<img src="demo/clients/6.png" alt="AC COMPOSITES" >
+												<img  class="img-round" src="demo/clients/6.png" alt="AC COMPOSITES" >
 											</a>
 										</div>
 
@@ -439,8 +440,8 @@ $title = "Team SunrIde"
 									</div>
 									<div>
 										<div class="sponsor-img">
-											<a href="https://www.amrc.co.uk" target="_blank">
-												<img src="demo/clients/7.png" alt="AMRC" >
+											<a  href="https://www.amrc.co.uk" target="_blank">
+												<img  class="img-round" src="demo/clients/7.png" alt="AMRC" >
 											</a>
 										</div>
 
@@ -452,7 +453,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="http://https://alternum.co.uk/" target="_blank">
-												<img src="demo/clients/8.png" alt="ALTERNUM" style="width:100%;height:auto;" >
+												<img class="img-round" src="demo/clients/8.png" alt="ALTERNUM" style="width:100%;height:auto;" >
 											</a>
 										</div>
 
@@ -464,7 +465,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="https://www.sheffield.ac.uk/alumni/foundation" target="_blank">
-												<img src="demo/clients/2.png" alt="ALUMNI FOUNDATION">
+												<img id="sheff-logo"  class="img-round" src="demo/clients/2.png" alt="ALUMNI FOUNDATION">
 											</a>
 										</div>
 
@@ -501,7 +502,7 @@ $title = "Team SunrIde"
 
 	<script type="text/javascript" src="assets/js/jquery-1.11.0.min.js"></script>
 	<script type="text/javascript" src="assets/js/hydrogen.packed.min.js"></script>
-	<script type="text/javascript" src="assets/js/darkmode.js"></script>
+	<!-- <script type="text/javascript" src="assets/js/darkmode.js"></script> -->
 
 	<script type="text/javascript" src="assets/plugins/royalslider/jquery.royalslider.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/mfp/jquery.mfp-0.9.9.js"></script>

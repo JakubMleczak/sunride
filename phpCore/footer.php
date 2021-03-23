@@ -44,3 +44,4 @@
 	</div>
 
 </footer>
+<script type="text/javascript" src="assets/js/darkmode.js"></script>

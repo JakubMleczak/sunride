@@ -1,4 +1,4 @@
-<header class="site-header" style=" padding:0px;margin:0px;min-height: 1%">
+<header class="site-header" style=" padding:0px;margin:0px;min-height: 1%;">
 
 	<div class="header-inner">
 
@@ -10,7 +10,7 @@
 
 					<div class="brand">
 						<a href="#">
-							<img src="demo/img/logosmall.png">
+							<img id="navlogo" src="demo/img/logosmall.png">
 						</a>
 					</div>
 
@@ -26,8 +26,8 @@
 								<span class="sub-toggle"></span>
 
 								<ul class="sub-toggle-color">
-									<li><a href="sunfire.php">SunFire 2020/21 </a></li>
-									<li><a href="gagarin.php">Karman Alpha 2021/22</a></li>
+									<li><a href="gagarin.php"> SS2S Karman Alpha 2021/22</a></li>
+									<li><a href="sunfire.php">SunFire Engine 2020/21 </a></li>
 									<li><a href="vesna.php">Vesna 2020/21</a></li>
 									<li><a href="jr.php">Sunride Jr 2019/20 </a></li>
 									<li><a href="helen.php">Helen 2018/19 </a></li>
@@ -44,7 +44,7 @@
 									Society
 								</a>
 							</li>
-							<li><a href="news.html">Gallery</a></li>
+							<li><a href="gallery.php">Gallery</a></li>
 							<li><a href="news.html">Partners</a></li>
 							<li><a href="news.html">Sponsors</a></li>
 							<li><a href="news.html">About</a></li>
