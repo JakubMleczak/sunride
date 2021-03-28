@@ -38,66 +38,84 @@ $title = "Team SunrIde"
 				<div class="section-row-container">
 
 					<div class="top-margin">
-						<div class="container2 ">
+						<div class="container2 bottom-margin-big ">
 							<div>
 								<h2 class="section-title">
 									<span data-shadow-text="Gallery">Gallery</span>
 								</h2>
 							</div>
-							<div class="page-gallery">
 
-								<?php
-								// Image extensions
-								$image_extensions = array("png", "jpg", "jpeg", "gif");
-
-								// Target directory
-								$dir = 'gallery/';
+							<?php
+							// Image extensions
+							$image_extensions = array("png", "jpg", "jpeg", "gif","JPG");
+							// To add img to gallery just drop them in a correct folder
+							// To add a new year:
+							// *Create a new folder on the server for example 2022
+							// * Add new entry to the array bellow in this case "Year 2022"=>"gallery/2022/"
+							// First value is just what is shown in <h2> 
+							// Second value is path to img (remeber to add "/" at the end)
+							$years = array("Year 2020" => "gallery/2020/", "Year 2019" => "gallery/2019/");
+							// Target directory
+							foreach ($years as $x => $x_value) {
+								
+								$dir = $x_value;
 								if (is_dir($dir)) {
-
 									if ($dh = opendir($dir)) {
 										$count = 1;
+							?>
 
-										// Read files
-										while (($file = readdir($dh)) !== false) {
+										<h3 class="section-title margin-top">
+											<span data-shadow-text=<?php echo $x; ?>><?php echo $x; ?></span>
+										</h3>
+										<div class="page-gallery">
+											
+											<?php
 
-											if ($file != '' && $file != '.' && $file != '..') {
+											// Read files
+											while (($file = readdir($dh)) !== false) {
 
-												// Image path
-												$image_path = "gallery/" . $file;
+												if ($file != '' && $file != '.' && $file != '..') {
+
+													// Image path
+													$image_path = $dir . $file;
+													
+											
+													
+													$image_ext = pathinfo($image_path, PATHINFO_EXTENSION);
+												
+													// Check its not folder and it is image file
+													if (
+														!is_dir($image_path) &&
+														in_array($image_ext, $image_extensions)
+													) {
+											?>
+
+														<!-- Image -->
+														
+														<a href="<?php echo $image_path; ?>" data-lightbox="<?php echo $x; ?>" title="<?php echo $x; ?>">
+
+															<img class="thumb" src="<?php echo $image_path; ?>">
+														</a>
 
 
-												$image_ext = pathinfo($image_path, PATHINFO_EXTENSION);
-
-												// Check its not folder and it is image file
-												if (
-													!is_dir($image_path) &&
-													in_array($image_ext, $image_extensions)
-												) {
-								?>
-
-													<!-- Image -->
-
-													<a href="<?php echo $image_path; ?>" data-lightbox="gall" title="my caption">
-
-														<img class="thumb" src="<?php echo $image_path; ?>">
-													</a>
-
-
-								<?php
+												<?php
 
 
 
+													}
+													$count++;
 												}
-												$count++;
 											}
+											?> </div> <?php
 										}
+										closedir($dh);
 									}
-									closedir($dh);
+									
 								}
 
 
 								?>
-							</div>
+										
 						</div>
 					</div>
 				</div>

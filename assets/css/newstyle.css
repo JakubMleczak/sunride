@@ -458,6 +458,9 @@ body {
 .bottom-margin {
     margin-bottom: 50px;
 }
+.bottom-margin-big{
+    margin-bottom: 150px;
+}
 
 .top-margin-big {
     margin-top: 150px;
@@ -621,17 +624,13 @@ body {
     }
 }
 
-.page-gallery a:hover img {
-    -webkit-transform: scale(1.05);
-    -moz-transform: scale(1.05);
-    -o-transform: scale(1.05);
-    -ms-transform: scale(1.05);
-    transform: scale(1.05);
-    z-index: 5;
-}
+
 .thumb
 {
     width: 350px;
     height: 250px;
     object-fit:cover;
+}
+.margin-top{
+    margin-top: 50px;
 }
