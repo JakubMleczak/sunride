@@ -406,6 +406,10 @@ body {
 .div-color {
     background-color: var(--div-sec) !important;
 }
+.space {
+    padding-top: 50px;
+    padding-bottom: 50px ;
+}
 
 .main-nav ul li ul {
     background-color: var(--bg-color);
@@ -432,18 +436,31 @@ body {
     }
 }
 
-/* helen subpage */
+/* rockets subpage */
 
-.grid-helen {
+.grid-rockets {
     display: grid;
     grid-template-columns: 1fr;
     column-gap: 40px;
     row-gap: 45px;
+    align-items: center;
 }
 
+
+
 @media screen and ( min-width: 1069px) {
-    .grid-helen {
+    .max-size{
+        max-width: 800px;
+        margin: auto;
+    }
+    .grid-rockets {
         grid-template-columns: 0.60fr 1.40fr;
+    }
+    .grid-rockets-equ {
+        grid-template-columns: 1fr 1fr;
+    }
+    .video-grid{
+        grid-column: 1/3;
     }
 }
 
@@ -458,7 +475,8 @@ body {
 .bottom-margin {
     margin-bottom: 50px;
 }
-.bottom-margin-big{
+
+.bottom-margin-big {
     margin-bottom: 150px;
 }
 
@@ -476,6 +494,9 @@ body {
     width: 350px;
     display: block;
     float: left;
+}
+.red-butt:hover{
+    background-color: rgb(168, 63, 63);
 }
 
 .red-butt {
@@ -610,8 +631,8 @@ body {
     column-gap: 20px;
     row-gap: 15px;
     margin-bottom: 20;
-    
 }
+
 @media screen and ( min-width: 768px) {
     .page-gallery {
         grid-template-columns: repeat(5, 1fr);
@@ -624,13 +645,12 @@ body {
     }
 }
 
-
-.thumb
-{
+.thumb {
     width: 350px;
     height: 250px;
-    object-fit:cover;
+    object-fit: cover;
 }
-.margin-top{
+
+.margin-top {
     margin-top: 50px;
 }
