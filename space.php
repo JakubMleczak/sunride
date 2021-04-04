@@ -37,12 +37,12 @@ $title = "Team SunrIde"
 				<div class="section-row-container">
 
 					<div class="top-margin">
-						<div class="container2 ">
+						<div class="container2">
 
 							<div class="col-md-	12">
 								<hgroup>
-									<h4 class="text-primary text-uppercase">Vesna</h4>
-									<h3 class="section-separator-title separator-align-left"><span>Vesna - SAC Third iteration</span></h3>
+									<h4 class="text-primary text-uppercase">Spacefleet Ltd Partnership</h4>
+									<h3 class="section-separator-title separator-align-left"><span>Space Dart</span></h3>
 								</hgroup>
 
 
@@ -54,31 +54,33 @@ $title = "Team SunrIde"
 
 									</div>
 									<div class="info">
-										<h4>MEET VESNA</h4>
-										<p style="text-align:justify;">As a tribute to Helen's survival and nearly perfect conditions after recovery, Vesna named after Vesna Vulovic, the incredible Serbian flight attendant who survived a fall from 10,160 m with no parachute was a direct upgrade to her proving reliability and reusability of her system. Being a direct upgrade made Vesna the main attraction as a platform for testing and designing innovative systems. This opened to us the door to directly collaborate with another SSI project called SunSat. Providing us with a 10cm 3U cubeSat that tests a new technology for measuring high G forces while ascending, and atmospheric conditions as it descends.
+										<h4>Meet Space Dart</h4>
+										<p style="text-align:justify;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis magni officiis totam commodi dolore, at pariatur veniam dignissimos, laborum corrupti ab harum necessitatibus ipsa, asperiores eveniet fugit suscipit quibusdam iure!
+
+
 
 										</p>
 									</div>
 								</div>
 								<div>
-									<img src="demo/TEST/Vesnalc.png" alt="">
+									<img src="demo/TEST/SS2Slc.JPG" alt="">
 								</div>
 							</div>
 
-							<a class="red-butta" href="">
+							
 								<div class="red-butt">
-
+								<a class="red-butta" href="">
 									Publications and Reports
-
+									</a>
 								</div>
-							</a>
-							<a class="red-butta" href="gallery.php">
+						
+							
 								<div class="red-butt">
-
+								<a class="red-butta" href="gallery.php">
 									Gallery
-
+									</a>
 								</div>
-							</a>
+															
 						</div>
 
 						<div class="div-color ">

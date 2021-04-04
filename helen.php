@@ -138,6 +138,7 @@ $title = "Team SunrIde"
 								</div>
 							</a>
 
+						</div>
 							<div class="div-color ">
 								<div class="container2 ">
 									<div class="pic3-grid space">

@@ -26,10 +26,10 @@
 								<span class="sub-toggle"></span>
 
 								<ul class="sub-toggle-color">
-									<li><a href="gagarin.php"> SS2S Karman Alpha 2021/22</a></li>
-									<li><a href="sunfire.php">SunFire Engine 2020/21 </a></li>
+									<li><a href="karman.php"> SS2S Karman Alpha 2021/22</a></li>
+									<li><a href="space.php">Space Draft 2020/21 </a></li>
 									<li><a href="vesna.php">Vesna 2020/21</a></li>
-									<li><a href="jr.php">Sunride Jr 2019/20 </a></li>
+									<li><a href="sunride.php">Sunride Jr 2019/20 </a></li>
 									<li><a href="helen.php">Helen 2018/19 </a></li>
 									<li><a href="amy.php">Amy 2017/18 </a></li>
 								</ul>

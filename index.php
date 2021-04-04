@@ -154,7 +154,7 @@ $title = "Team SunrIde"
 
 						<div class="main-gallery js-flickity" data-flickity-options='{"wrapAround": "true", "cellAlign": "left", "contain": true, "autoPlay": "true", "autoPlay": "1500" }'>
 							<div class="gallery-cell">
-								<a href="notyet">
+								<a href="amy.php">
 									<img src="Pics/amy.jpg" alt="rocket photo">
 									<h1>AMY</h1>
 									<h2>Our first high powered rocket</h2>
@@ -173,7 +173,7 @@ $title = "Team SunrIde"
 								</a>
 							</div>
 							<div class="gallery-cell">
-								<a href="notyet">
+								<a href="vesna.php">
 									<img src="Pics/vesna3.png" alt="rocket photo">
 									<h1>VESNA</h1>
 									<h2>A highly-engineered mission</h2>
@@ -181,7 +181,7 @@ $title = "Team SunrIde"
 								</a>
 							</div>
 							<div class="gallery-cell">
-								<a href="notyet">
+								<a href="karman.php">
 									<img src="Pics/karman2.jpg" alt="rocket photo">
 									<h1>Karman A.</h1>
 									<h2>Reaching for the stars</h2>
@@ -189,7 +189,7 @@ $title = "Team SunrIde"
 								</a>
 							</div>
 							<div class="gallery-cell">
-								<a href="notyet">
+								<a href="sunride.php">
 									<img src="Pics/jr.png" alt="rocket photo">
 									<h1>SunrIde Jr</h1>
 									<h2>Our Society Project</h2>
@@ -197,29 +197,13 @@ $title = "Team SunrIde"
 								</a>
 							</div>
 							<div class="gallery-cell">
-								<a href="notyet">
+								<a href="space.php">
 									<img src="Pics/EARL1.jpg" alt="rocket photo">
 									<h1>Space Dart</h1>
 									<h2>Spacefleet Ltd Partnership</h2>
 									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							<!-- <div class="gallery-cell">
-								<a href="notyet">
-									<img src="Pics/amy.jpg" alt="rocket photo">
-									<h1>Amy</h1>
-									<h2>Our first high powered rocket</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
-								</a>
-							</div> -->
-							<!-- <div class="gallery-cell">
-								<a href="notyet">
-									<img src="mid2.jpg" alt="rocket photo">
-									<h1>Amy</h1>
-									<h2>Our first high powered rocket</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
-								</a>
-							</div> -->
 							
 
 						</div>

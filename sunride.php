@@ -41,8 +41,8 @@ $title = "Team SunrIde"
 
 							<div class="col-md-	12">
 								<hgroup>
-									<h4 class="text-primary text-uppercase">Vesna</h4>
-									<h3 class="section-separator-title separator-align-left"><span>Vesna - SAC Third iteration</span></h3>
+									<h4 class="text-primary text-uppercase">First step towards the Karman Line!</h4>
+									<h3 class="section-separator-title separator-align-left"><span>Karman Alpha - SS2S</span></h3>
 								</hgroup>
 
 
@@ -54,14 +54,18 @@ $title = "Team SunrIde"
 
 									</div>
 									<div class="info">
-										<h4>MEET VESNA</h4>
-										<p style="text-align:justify;">As a tribute to Helen's survival and nearly perfect conditions after recovery, Vesna named after Vesna Vulovic, the incredible Serbian flight attendant who survived a fall from 10,160 m with no parachute was a direct upgrade to her proving reliability and reusability of her system. Being a direct upgrade made Vesna the main attraction as a platform for testing and designing innovative systems. This opened to us the door to directly collaborate with another SSI project called SunSat. Providing us with a 10cm 3U cubeSat that tests a new technology for measuring high G forces while ascending, and atmospheric conditions as it descends.
+										<h4>MEET SUNRIDE JR</h4>
+										<p style="text-align:justify;">The low thrust output engine will use a pressure-fed system to supply fuel and oxidiser to the engine and will implement regenerative cooling to achieve high temperatures during combustion. This opens the opportunity for students to engage not only in conceptual design but also consider thermodynamics, subsonic and supersonic flows from a practical perspective.
+
+
+
+
 
 										</p>
 									</div>
 								</div>
 								<div>
-									<img src="demo/TEST/Vesnalc.png" alt="">
+									<img src="demo/TEST/sunfire.png" alt="">
 								</div>
 							</div>
 

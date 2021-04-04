@@ -41,8 +41,8 @@ $title = "Team SunrIde"
 
 							<div class="col-md-	12">
 								<hgroup>
-									<h4 class="text-primary text-uppercase">Vesna</h4>
-									<h3 class="section-separator-title separator-align-left"><span>Vesna - SAC Third iteration</span></h3>
+									<h4 class="text-primary text-uppercase">First step towards the Karman Line!</h4>
+									<h3 class="section-separator-title separator-align-left"><span>Karman Alpha - SS2S</span></h3>
 								</hgroup>
 
 
@@ -54,14 +54,16 @@ $title = "Team SunrIde"
 
 									</div>
 									<div class="info">
-										<h4>MEET VESNA</h4>
-										<p style="text-align:justify;">As a tribute to Helen's survival and nearly perfect conditions after recovery, Vesna named after Vesna Vulovic, the incredible Serbian flight attendant who survived a fall from 10,160 m with no parachute was a direct upgrade to her proving reliability and reusability of her system. Being a direct upgrade made Vesna the main attraction as a platform for testing and designing innovative systems. This opened to us the door to directly collaborate with another SSI project called SunSat. Providing us with a 10cm 3U cubeSat that tests a new technology for measuring high G forces while ascending, and atmospheric conditions as it descends.
+										<h4>MEET KARMAN ALPHA</h4>
+										<p style="text-align:justify;">Over the course of the 2019/2020 academic year an early test version was agreed upon and designed to be manufactured and hopefully launched in July 2021. Spanning over 6m height and a radius of about 25 cm, Karman Alpha is a hybrid engine fuelled rocket that is expected to reach 35 - 50 km high, with a similar fairing system to Vesna. It should be able to facilitate 4U satellites and a static payload.
+
+
 
 										</p>
 									</div>
 								</div>
 								<div>
-									<img src="demo/TEST/Vesnalc.png" alt="">
+									<img src="demo/TEST/SS2Slc.JPG" alt="">
 								</div>
 							</div>
 

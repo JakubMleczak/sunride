@@ -491,15 +491,18 @@ body {
 }
 
 .red-butta {
-    width: 350px;
-    display: block;
-    float: left;
+    
+    width: 100%;
+    height: 100%;
+    color: black;
 }
 .red-butt:hover{
     background-color: rgb(168, 63, 63);
 }
 
 .red-butt {
+    width: 350px;
+    float: left;
     padding: 20px;
     margin: 30px;
     background-color: rgb(255, 65, 65);

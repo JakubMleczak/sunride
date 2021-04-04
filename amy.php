@@ -69,7 +69,7 @@ $title = "Team SunrIde"
 							<div class="grid-rockets grid-rockets-equ">
 
 
-								<div class="icon-box" data-animation-name="fadeInUp" style="">
+								<div class="icon-box" data-animation-name="fadeInUp">
 									<div class="icon">
 										<i class="gi gi-magic"></i>
 									</div>
