@@ -688,3 +688,9 @@ body {
 .partners-grid .sponsor-img{
     height: 300px;
 }
+/* blog */
+.wordpress{
+    width: 100%;
+    border: none;
+    height: 100vh;
+}

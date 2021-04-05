@@ -34,8 +34,8 @@ $title = "Team SunrIde"
 		<div class="site-body">
 
 			<section id="about" class="section">
-            
-				
+				<iframe id="myIframe" class="wordpress" src="https://sunride.group.shef.ac.uk/newweb/blog/wordpress/" title="Iframe Example"></iframe>
+
 
 			</section>
 		</div>
@@ -64,6 +64,16 @@ $title = "Team SunrIde"
 	<script type="text/javascript" src="assets/plugins/form/jquery.form.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/light/js/lightbox-plus-jquery.js"></script>
-
+	<!-- <script>
+		// Selecting the iframe element
+		var iframe = document.getElementById("myIframe");
+		alert("test")
+		// Adjusting the iframe height onload event
+		iframe.onload = function() {
+			alert(iframe.contentWindow.document.body.scrollHeight)
+			iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+			
+		}
+	</script> -->
 
 </body>
