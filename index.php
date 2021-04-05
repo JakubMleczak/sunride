@@ -204,13 +204,13 @@ $title = "Team SunrIde"
 									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							
+
 
 						</div>
 
 					</div>
 
-					<div class="section-row-container div-color" >
+					<div class="section-row-container div-color">
 
 
 						<section class="grid-1">
@@ -282,24 +282,24 @@ $title = "Team SunrIde"
 
 											<div class="container2 ">
 
-												
 
-													
 
-														<!-- <h2 class="section-title">
+
+
+												<!-- <h2 class="section-title">
 															<span data-shadow-text="About Us">About Us</span>
 														</h2> -->
-														<p class="lead" style="text-align:justify;">
-															<img class="img-sponsor" src="Pics/sponsorus.png" alt="">
-														</p>
+												<p class="lead" style="text-align:justify;">
+													<img class="img-sponsor" src="Pics/sponsorus.png" alt="">
+												</p>
 
 
-														</a>
-
-												
+												</a>
 
 
-												
+
+
+
 											</div>
 										</div>
 									</div>
@@ -376,7 +376,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="https://www.sheffield.ac.uk/faculty/engineering" target="_blank">
-												<img   class="img-round" src="demo/clients/3.png" alt="FACULTY OF ENGINEERING">
+												<img class="img-round" src="demo/clients/3.png" alt="FACULTY OF ENGINEERING">
 											</a>
 										</div>
 
@@ -388,7 +388,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="https://www.ansys.com" target="_blank">
-												<img  class="img-round" src="demo/clients/4.png" alt="ANSYS" >
+												<img class="img-round" src="demo/clients/4.png" alt="ANSYS">
 											</a>
 										</div>
 
@@ -413,7 +413,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="http://www.accomposites.co.uk/" target="_blank">
-												<img  class="img-round" src="demo/clients/6.png" alt="AC COMPOSITES" >
+												<img class="img-round" src="demo/clients/6.png" alt="AC COMPOSITES">
 											</a>
 										</div>
 
@@ -424,8 +424,8 @@ $title = "Team SunrIde"
 									</div>
 									<div>
 										<div class="sponsor-img">
-											<a  href="https://www.amrc.co.uk" target="_blank">
-												<img  class="img-round" src="demo/clients/7.png" alt="AMRC" >
+											<a href="https://www.amrc.co.uk" target="_blank">
+												<img class="img-round" src="demo/clients/7.png" alt="AMRC">
 											</a>
 										</div>
 
@@ -437,7 +437,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="http://https://alternum.co.uk/" target="_blank">
-												<img class="img-round" src="demo/clients/8.png" alt="ALTERNUM" style="width:100%;height:auto;" >
+												<img class="img-round" src="demo/clients/8.png" alt="ALTERNUM" style="width:100%;height:auto;">
 											</a>
 										</div>
 
@@ -449,7 +449,7 @@ $title = "Team SunrIde"
 									<div>
 										<div class="sponsor-img">
 											<a href="https://www.sheffield.ac.uk/alumni/foundation" target="_blank">
-												<img id="sheff-logo"  class="img-round" src="demo/clients/2.png" alt="ALUMNI FOUNDATION">
+												<img id="sheff-logo" class="img-round" src="demo/clients/2.png" alt="ALUMNI FOUNDATION">
 											</a>
 										</div>
 
@@ -457,6 +457,48 @@ $title = "Team SunrIde"
 										<div class="info">
 											<h4>Alumni Foundation</h4>
 											<p>The Alumni Foundation, University of Sheffield</p>
+										</div>
+									</div>
+									<div>
+										<a href="http://www.aerosociety.com/">
+											<div class="sponsor-img">
+
+												<img class="img-round  small-img" src="demo/clients/10.png" alt="ALUMNI FOUNDATION">
+
+											</div>
+										</a>
+
+										<div class="info">
+											<h4> Royal Aeronautical Society</h4>
+											<p> Royal Aeronautical Society - RAeS</p>
+										</div>
+									</div>
+									<div>
+										<a href="https://uk.rs-online.com/web/">
+											<div class="sponsor-img">
+
+												<img class="img-round" src="demo/clients/9.png" alt="ALUMNI FOUNDATION">
+
+											</div>
+										</a>
+
+										<div class="info">
+											<h4>RS Components</h4>
+											<p>RS Components Industrial, electronic products & solutions</p>
+										</div>
+									</div>
+									<div>
+										<a href="https://www.sheffield.ac.uk/alumni/foundation" target="_blank">
+											<div class="sponsor-img">
+
+												<img class="img-round small-img" src="demo/clients/11.png" alt="ALUMNI FOUNDATION">
+
+											</div>
+										</a>
+
+										<div class="info">
+											<h4>Sheffield Hallam University</h4>
+											<p>Sheffield Hallam University</p>
 										</div>
 									</div>
 								</div>
@@ -496,7 +538,7 @@ $title = "Team SunrIde"
 	<script type="text/javascript" src="assets/plugins/isotope/jquery.isotope.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.form.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.validate.min.js"></script>
-	
+
 
 
 </body>

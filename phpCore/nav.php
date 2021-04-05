@@ -35,7 +35,7 @@
 								</ul>
 							</li>
 							<li>
-								<a href="#">
+								<a href="blog.php">
 									News
 								</a>
 							</li>
@@ -45,9 +45,9 @@
 								</a>
 							</li>
 							<li><a href="gallery.php">Gallery</a></li>
-							<li><a href="news.html">Partners</a></li>
-							<li><a href="news.html">Sponsors</a></li>
-							<li><a href="news.html">About</a></li>
+							<li><a href="partners.php">Partners</a></li>
+							<li><a href="sponsors.php">Sponsors</a></li>
+							<li><a href="about.php">About</a></li>
 							<li class="dark">
 								<div class="theme-switch-wrapper">
 									<label class="theme-switch" for="checkbox">

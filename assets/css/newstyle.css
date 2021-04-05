@@ -249,6 +249,11 @@ nav {
     text-align: center;
 }
 
+.small-img {
+    max-height: 100%;
+    padding: 10px;
+}
+
 .sponsor-grid>div {
     height: 300px;
     margin: 30px;
@@ -406,9 +411,10 @@ body {
 .div-color {
     background-color: var(--div-sec) !important;
 }
+
 .space {
     padding-top: 50px;
-    padding-bottom: 50px ;
+    padding-bottom: 50px;
 }
 
 .main-nav ul li ul {
@@ -446,10 +452,8 @@ body {
     align-items: center;
 }
 
-
-
 @media screen and ( min-width: 1069px) {
-    .max-size{
+    .max-size {
         max-width: 800px;
         margin: auto;
     }
@@ -459,7 +463,7 @@ body {
     .grid-rockets-equ {
         grid-template-columns: 1fr 1fr;
     }
-    .video-grid{
+    .video-grid {
         grid-column: 1/3;
     }
 }
@@ -491,12 +495,12 @@ body {
 }
 
 .red-butta {
-    
     width: 100%;
     height: 100%;
     color: black;
 }
-.red-butt:hover{
+
+.red-butt:hover {
     background-color: rgb(168, 63, 63);
 }
 
@@ -616,6 +620,9 @@ body {
 .img-round {
     border-radius: 6px;
 }
+.img-round-big {
+    border-radius: 40px;
+}
 
 .bott {
     position: absolute;
@@ -656,4 +663,28 @@ body {
 
 .margin-top {
     margin-top: 50px;
+}
+/* partners */
+.partners-grid {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: Repeat(1, 1fr);
+    column-gap: 20px;
+    row-gap: 75px;
+}
+
+@media screen and ( min-width: 768px) {
+    .partners-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and ( min-width: 1300px) {
+    .partners-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+.partners-grid .sponsor-img{
+    height: 300px;
 }

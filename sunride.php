@@ -41,8 +41,8 @@ $title = "Team SunrIde"
 
 							<div class="col-md-	12">
 								<hgroup>
-									<h4 class="text-primary text-uppercase">First step towards the Karman Line!</h4>
-									<h3 class="section-separator-title separator-align-left"><span>Karman Alpha - SS2S</span></h3>
+									<h4 class="text-primary text-uppercase"> SUNRIDE JR</h4>
+									<h3 class="section-separator-title separator-align-left"><span> SUNRIDE JUNIOR</span></h3>
 								</hgroup>
 
 
