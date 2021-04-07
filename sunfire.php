@@ -41,8 +41,8 @@ $title = "Team SunrIde"
 
 							<div class="col-md-	12">
 								<hgroup>
-									<h4 class="text-primary text-uppercase"> SUNRIDE JR</h4>
-									<h3 class="section-separator-title separator-align-left"><span> SUNRIDE JUNIOR</span></h3>
+									<h4 class="text-primary text-uppercase"> Sunfire</h4>
+									<h3 class="section-separator-title separator-align-left"><span> Sunfire</span></h3>
 								</hgroup>
 
 
@@ -54,7 +54,7 @@ $title = "Team SunrIde"
 
 									</div>
 									<div class="info">
-										<h4>MEET SUNRIDE JR</h4>
+										<h4>MEET Sunfire</h4>
 										<p style="text-align:justify;">The low thrust output engine will use a pressure-fed system to supply fuel and oxidiser to the engine and will implement regenerative cooling to achieve high temperatures during combustion. This opens the opportunity for students to engage not only in conceptual design but also consider thermodynamics, subsonic and supersonic flows from a practical perspective.
 
 
@@ -115,7 +115,7 @@ $title = "Team SunrIde"
 							<div class="photo-grid">
 								<?php
 
-								$sql4 = "SELECT `Name`, `Linkedin`, `Photo`, `Role` FROM `team` INNER JOIN `members` ON `team`.`Member_ID`=`members`.`ID` Where `Project` = 8 Order by `Member_ID`;
+								$sql4 = "SELECT `Name`, `Linkedin`, `Photo`, `Role` FROM `team` INNER JOIN `members` ON `team`.`Member_ID`=`members`.`ID` Where `Project` = 12 Order by `Member_ID`;
 								";
 								$result3 = mysqli_query($conn, $sql4);
 								?>

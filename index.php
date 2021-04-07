@@ -30,7 +30,62 @@ $title = "Team SunrIde"
 
 			<div class="cycle-next"></div>
 			<div class="cycle-prev"></div>
+			<div class="splash-content cycle-slide cycle-slide-active" style="position: absolute; top: 0px; left: 0px; z-index: 98; visibility: visible; display: block; opacity: 1;">
 
+				<div class="container">
+
+					<div class="row">
+
+						<div class="col-md-12">
+
+							<div class="splash-text">
+
+								<h2 class="splash-headline">Welcome to </h2>
+								<img style="width:250px; margin-top:-40px;" src="./Team SunrIde_files/logoend.png">
+								<!-- Logo is at the bottom of Welcome -->
+								<div class="splash-description">
+									<p>Sheffield University Nova Rocket Innovative Design Engineering </p>
+									<p style="padding-top:20px;">The first student-led
+										<span> Rocket Design Team</span> to represent the UK in the world's largest International University rocket competition
+										<br>
+										<span class="text-primary">22 - 26 June, 2021</span>
+									</p>
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="splash-content cycle-slide" style="position: absolute; top: 0px; left: 0px; display: block; opacity: 1; z-index: 97; visibility: hidden;">
+
+				<div class="container">
+
+					<div class="row">
+
+						<div class="col-md-12">
+
+							<div class="splash-text">
+								<h4 class="splash-intro">
+									<a href="http://sunride.group.shef.ac.uk/#">TEAM SUNRIDE</a>
+								</h4>
+								<h1 class="splash-headline">The University of Sheffield </h1>
+								<div class="splash-description">
+									<p>Groundbreaking ideas that will redefine the course of rocket design in the UK</p>
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
 			<div class="splash-content cycle-slide" style="position: absolute; top: 0px; left: 0px; display: block; opacity: 1; z-index: 99; visibility: hidden;">
 
 				<div class="container">
@@ -64,62 +119,9 @@ $title = "Team SunrIde"
 				</div>
 
 			</div>
-			<div class="splash-content cycle-slide cycle-slide-active" style="position: absolute; top: 0px; left: 0px; z-index: 98; visibility: visible; display: block; opacity: 1;">
-
-				<div class="container">
-
-					<div class="row">
-
-						<div class="col-md-12">
-
-							<div class="splash-text">
-
-								<h2 class="splash-headline">Welcome to </h2>
-								<img style="width:250px; margin-top:-40px;" src="./Team SunrIde_files/logoend.png">
-								<!-- Logo is at the bottom of Welcome -->
-								<div class="splash-description">
-									<p>Sheffield University Nova Rocket Innovative Design Engineering </p>
-									<p style="padding-top:20px;">The first student-led
-										<span> Rocket Design Team</span> to represent the UK in the world's largest International University rocket competition
-										<br>
-										<span class="text-primary">22 - 26 June, 2021</span>
-									</p>
-								</div>
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-			</div>
-			<div class="splash-content cycle-slide" style="position: absolute; top: 0px; left: 0px; display: block; opacity: 1; z-index: 97; visibility: hidden;">
-
-				<div class="container">
-
-					<div class="row">
-
-						<div class="col-md-12">
-
-							<div class="splash-text">
-								<h4 class="splash-intro">
-									<a href="http://sunride.group.shef.ac.uk/#">TEAM SUNRIDE</a>
-								</h4>
-								<h1 class="splash-headline">The University of Sheffield </h1>
-								<div class="splash-description">
-									<p>Groundbreaking ideas that will redefine the course of rocket design in the UK</p>
-								</div>
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-			</div>
 		</div>
+
+
 		<div class="splash-media splash-media-img has-bg" style="background-position: 50% 0px; background-image: url('demo/TEST/3.jpg')">
 			<!-- change the url("") for different background using the full directory -->
 			<div class="overlay"></div>
@@ -154,17 +156,6 @@ $title = "Team SunrIde"
 
 						<div class="main-gallery js-flickity" data-flickity-options='{"wrapAround": "true", "cellAlign": "left", "contain": true, "autoPlay": "true", "autoPlay": "1500" }'>
 							<div class="gallery-cell">
-								<a href="amy.php">
-									<img src="Pics/amy.jpg" alt="rocket photo">
-									<h1>AMY</h1>
-									<h2>Our first high powered rocket</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
-								</a>
-
-
-
-							</div>
-							<div class="gallery-cell">
 								<a href="helen.php">
 									<img src="Pics/helen.jpg" alt="rocket photo">
 									<h1>HELEN</h1>
@@ -181,10 +172,18 @@ $title = "Team SunrIde"
 								</a>
 							</div>
 							<div class="gallery-cell">
+								<a href="sunfire.php">
+									<img src="Pics/sunfire.png" alt="rocket photo">
+									<h1>SunFire</h1>
+									<h2>Liquid Rocket Engine Sheffield Hallam University</h2>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+							<div class="gallery-cell">
 								<a href="karman.php">
 									<img src="Pics/karman2.jpg" alt="rocket photo">
 									<h1>Karman A.</h1>
-									<h2>Reaching for the stars</h2>
+									<h2>Students Shot 2 Space</h2>
 									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
@@ -204,6 +203,15 @@ $title = "Team SunrIde"
 									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
+							<div class="gallery-cell">
+								<a href="amy.php">
+									<img src="Pics/amy.jpg" alt="rocket photo">
+									<h1>AMY</h1>
+									<h2>Our first high powered rocket</h2>
+									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+								</a>
+							</div>
+
 
 
 						</div>
@@ -273,12 +281,48 @@ $title = "Team SunrIde"
 								</div>
 							</div>
 						</section>
-						<section class="section div-color">
+						<section class="section div-color ">
+							<div class="row  div-color ">
+								<div class="col-xl-12 div-color ">
+									<div class="section-row-container div-color ">
+
+										<div class="section-row half-padding-bottom div-color  ">
+
+											<div class="container2 div-color">
+
+												<div class="row">
+
+													<div class="col-lg-12">
+													<h2 class="section-title">
+																	<span data-shadow-text="News">News</span>
+																</h2>
+														<div class="grid-two">
+															<div>
+																<iframe src="https://www.youtube.com/embed/OwXrTvRiIgQ" width="560" height="315" frameBorder="0" autoplay="disabled" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+															</div>
+															<div>
+
+																<iframe width="560" height="315"  src="https://www.youtube.com/embed/Iz9NOh_zJec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+															</div>
+
+														</div>
+
+
+
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						<section class="section">
 							<div class="row">
 								<div class="col-xl-12">
 									<div class="section-row-container">
 
-										<div class="section-row div-color half-padding-bottom ">
+										<div class="section-row half-padding-bottom ">
 
 											<div class="container2 ">
 
@@ -321,7 +365,7 @@ $title = "Team SunrIde"
 
 										<div class="col-lg-12">
 											<div class="sponsor">
-												<a href="">
+												<a href="sponsors.php">
 													<div>
 														<h2 class="section-title">
 															<span data-shadow-text="Become a sponsor">Become a sponsor</span>
@@ -347,7 +391,7 @@ $title = "Team SunrIde"
 
 			<section id="sponsor" class="section" style="background-color:#C6CAD5;">
 
-				<div class="section-row-container">
+				<div class="section-row-container div-color">
 
 					<div class="section-row">
 
@@ -499,6 +543,20 @@ $title = "Team SunrIde"
 										<div class="info">
 											<h4>Sheffield Hallam University</h4>
 											<p>Sheffield Hallam University</p>
+										</div>
+									</div>
+									<div>
+										<a href="http://arundal-astronautics.co.uk/">
+											<div class="sponsor-img">
+
+												<img class="img-round-mid small-img" src="demo/clients/12.png" alt="ALUMNI FOUNDATION">
+
+											</div>
+										</a>
+
+										<div class="info">
+											<h4>Arundal Astronautics</h4>
+											<p>Arundal Astronautics</p>
 										</div>
 									</div>
 								</div>

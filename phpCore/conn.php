@@ -5,7 +5,7 @@
 // $password = "Po0x6qJl=vb*";
 // $username = "co6sun_co6sun";
 // $namee = "co6sun_sunride";
-// 
+
 //local settings
 $servername = "localhost";
 $password = "";

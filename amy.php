@@ -48,9 +48,9 @@ $title = "Team SunrIde"
 							$Rtitle2 = 'James Barrowman Award';
 							$Rcontent2 = "SunrIde is the award winner for the Best Flight Dynamics. We received the James Barrowman award at the Spaceport America Cup 2018 for achieving an altitude an accuracy of 99.83% under the 10,000ft. This is a substantial achievement being the first and only team from the UK to ever participate and receive an award in the largest Intercollegiate competition.";
 
-							$Rn1 = '99';
+							$Rn1 = '99.930';
 							$Rp1 = '% Acuracy';
-							$Rn2 = '10,017';
+							$Rn2 = "10017";
 							$Rp2 = 'feet Apogee reached';
 							$Rn3 = '100';
 							$Rp3 = 'teams from around the world';

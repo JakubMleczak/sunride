@@ -111,7 +111,7 @@ $title = "Team SunrIde"
 							<div class="photo-grid">
 								<?php
 
-								$sql4 = "SELECT `Name`, `Linkedin`, `Photo`, `Role` FROM `team` INNER JOIN `members` ON `team`.`Member_ID`=`members`.`ID` Where `Project` = 1 Order by `Member_ID`;
+								$sql4 = "SELECT `Name`, `Linkedin`, `Photo`, `Role` FROM `team` INNER JOIN `members` ON `team`.`Member_ID`=`members`.`ID` Where `Project` = 6 Order by `Member_ID`;
 								";
 								$result3 = mysqli_query($conn, $sql4);
 								?>

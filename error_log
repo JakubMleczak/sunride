@@ -1,0 +1,5 @@
+[04-Apr-2021 23:34:07 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /webusers/co6sun/public_html/newweb/phpCore/conn.php on line 16
+[04-Apr-2021 23:34:07 Europe/London] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /webusers/co6sun/public_html/newweb/phpCore/conn.php on line 17
+[04-Apr-2021 23:34:07 Europe/London] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /webusers/co6sun/public_html/newweb/phpCore/conn.php on line 19
+[06-Apr-2021 13:50:30 Europe/London] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /webusers/co6sun/public_html/newweb/karman.php on line 104
+[06-Apr-2021 13:50:37 Europe/London] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /webusers/co6sun/public_html/newweb/karman.php on line 104

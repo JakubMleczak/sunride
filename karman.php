@@ -100,67 +100,12 @@ $title = "Team SunrIde"
 							</div>
 						</div>
 
-						<div class="container2 ">
-							<?php
-							include('phpCore/conn.php');
-
-							?>
-							<h1 class="section-title top-margin-big">
-								<span data-shadow-text="The Team">The Team</span>
-							</h1>
-
-
-							<div class="photo-grid">
-								<?php
-
-								$sql4 = "SELECT `Name`, `Linkedin`, `Photo`, `Role` FROM `team` INNER JOIN `members` ON `team`.`Member_ID`=`members`.`ID` Where `Project` = 1 Order by `Member_ID`;
-								";
-								$result3 = mysqli_query($conn, $sql4);
-								?>
-
-
-								<?php
-								while ($opt = mysqli_fetch_assoc($result3)) {
-
-
-
-									echo <<<HTML
-								<div>
-									<img src="$opt[Photo]" alt="">
-									<div class="ph-des">
-										$opt[Name]
-									</div>
-									<div class="ph-role">
-										$opt[Role]
-									</div>
-									
-
-HTML;
-									if ($opt["Linkedin"] != null) {
-										echo <<<HTML
-									<div>
-								<a href="$opt[Linkedin]">Linkedin</a>
-									</div>
-								</div>
-HTML;
-									} else {
-										echo <<<ENDS
-								</div>
-ENDS;
-									}
-								}
-
-								?>
-
-
-
-							</div>
+						
 
 
 
 
-
-						</div>
+					
 					</div>
 			</section>
 
