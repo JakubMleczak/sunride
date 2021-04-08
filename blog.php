@@ -64,16 +64,16 @@ $title = "Team SunrIde"
 	<script type="text/javascript" src="assets/plugins/form/jquery.form.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/form/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/light/js/lightbox-plus-jquery.js"></script>
-	<!-- <script>
+	<script>
 		// Selecting the iframe element
 		var iframe = document.getElementById("myIframe");
 		alert("test")
 		// Adjusting the iframe height onload event
 		iframe.onload = function() {
-			alert(iframe.contentWindow.document.body.scrollHeight)
+			console.log(iframe.contentWindow.document.body.scrollHeight)
 			iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
 			
 		}
-	</script> -->
+	 </script>
 
 </body>
