@@ -5,7 +5,13 @@ $title = "Team SunrIde"
 ?>
 
 <head>
+	<style>
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
 
+	</style>
 	<?php
 
 	include('phpCore/template.php')
@@ -34,7 +40,10 @@ $title = "Team SunrIde"
 		<div class="site-body">
 
 			<section id="about" class="section">
-				<iframe id="myIframe" class="wordpress" src="https://sunride.group.shef.ac.uk/newweb/blog/wordpress/" title="Iframe Example"></iframe>
+				
+				<iframe id="myIframe" class="wordpress"   src="https://sunride.group.shef.ac.uk/newweb/blog/wordpress/" title="Iframe Example"></iframe>
+			
+				
 
 
 			</section>
@@ -65,18 +74,7 @@ $title = "Team SunrIde"
 	<script type="text/javascript" src="assets/plugins/form/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="assets/plugins/light/js/lightbox-plus-jquery.js"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/iframe/js/iframeResizer.min.js"></script>
-    <script type="text/javascript">
-      /*
-       * If you do not understand what the code below does, then please just use the
-       * following call in your own code.
-       *
-       *   iFrameResize({log:true});
-       *
-       * Once you have it working, set the log option to false.
-       */
-
-	  iFrameResize({ log: true }, '#myIframe')
-    </script>
+   
+    
 
 </body>

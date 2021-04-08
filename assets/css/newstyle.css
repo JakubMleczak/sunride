@@ -746,9 +746,13 @@ body {
 
 .wordpress {
     width: 100%;
+    height: 150vh;
     border: none;
-    /* height: 100vh; */
+    /* overflow: hidden; */
+    overflow: auto;
 }
+
+
 
 /* about */
 
