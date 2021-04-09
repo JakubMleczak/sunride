@@ -220,8 +220,6 @@ nav {
 .grid-two div iframe {
     display: block;
     margin: auto;
-  
-
 }
 
 @media screen and ( min-width: 1368px) {
@@ -574,19 +572,20 @@ body {
     column-gap: 40px;
     row-gap: 75px;
     margin-bottom: 50px;
-    
 }
-.photo-grid img{
+
+.photo-grid img {
     height: 400px;
     object-fit: cover;
     margin: auto;
     display: block;
 }
+
 @media screen and ( min-width: 768px) {
     .photo-grid {
         grid-template-columns: repeat(3, 1fr);
     }
-    .photo-grid img{
+    .photo-grid img {
         height: 200px;
         object-fit: cover;
     }
@@ -596,18 +595,19 @@ body {
     .photo-grid {
         grid-template-columns: repeat(5, 1fr);
     }
-    .photo-grid img{
+    .photo-grid img {
         height: 220px;
         object-fit: cover;
     }
 }
+
 @media screen and ( min-width: 1500px) {
-   
-    .photo-grid img{
+    .photo-grid img {
         height: 250px;
         object-fit: cover;
     }
 }
+
 .photo-grid div div {
     text-align: center;
     padding: 3px;
@@ -752,8 +752,6 @@ body {
     overflow: auto;
 }
 
-
-
 /* about */
 
 .lead2 {
@@ -767,24 +765,107 @@ body {
 .red {
     color: rgb(255, 65, 65);
 }
-.div-size img{
+
+.div-size img {
     height: 100%;
     width: auto;
     object-fit: cover;
 }
-.div-size div{
+
+.div-size div {
     max-height: 400px;
 }
-.about-butt{
+
+.about-butt {
     padding: 15px;
-    background-color:  rgb(255, 65, 65);
+    background-color: rgb(255, 65, 65);
     color: white;
-    border:none;
+    border: none;
     border-radius: 30px;
     font-size: 25px;
     width: 150px;
     margin: 20px;
 }
+
 .about-butt:hover {
     background-color: rgb(168, 63, 63);
+}
+
+/* experimental index */
+
+.full-4 {
+    /* padding-top: 50px; */
+    min-height: 90vh;
+    background-image: url("../../Pics/helen2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.exp {
+    grid-template-columns: 1fr;
+}
+
+@media screen and ( min-width: 900px) {
+    .exp {
+        width: 30%;
+    }
+}
+
+.gallery-experiment {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    transition: background-color 0.5s ease;
+    
+}
+.exp div{
+    background-color:  #000f27 !important;
+}
+.gallery-experiment:hover {
+    background-blend-mode: soft-light;
+}
+
+.gallery-experiment:hover .h1-exp {
+    position: relative;
+    bottom:unset;
+    right: unset;
+    margin-top: 100px;
+  
+}
+
+.gallery-experiment .h1-exp {
+    position: relative;
+    margin-top: 300px;
+    /* right: 25%; */
+    text-align: center;
+}
+
+.gallery-experiment .h2-exp {
+    display: none;
+}
+
+.gallery-experiment:hover .h2-exp {
+    display: block;
+    position: relative;
+    text-align: center;
+    
+}
+
+.gallery-experiment .read-exp {
+    display: none;
+}
+
+.gallery-experiment:hover .read-exp {
+    display: initial;
+}
+.img-back{
+    /* background-position: 50% 0px; */
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../../Pics/helen.jpg");
 }
