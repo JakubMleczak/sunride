@@ -122,7 +122,7 @@ $title = "Team SunrIde"
 		</div>
 
 
-		<div class="splash-media splash-media-img has-bg" style="background-position: 50% 0px; background-image: url('demo/TEST/3.jpg')">
+		<div class="splash-media splash-media-img has-bg img-back" >
 			<!-- change the url("") for different background using the full directory -->
 			<div class="overlay"></div>
 		</div>
@@ -155,60 +155,60 @@ $title = "Team SunrIde"
 					<div class="top-margin bottom-margin">
 
 						<div class="main-gallery js-flickity" data-flickity-options='{"wrapAround": "true", "cellAlign": "left", "contain": true, "autoPlay": "true", "autoPlay": "1500" }'>
-							<div class="gallery-cell">
+							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/helen.jpg');">
 								<a href="helen.php">
-									<img src="Pics/helen.jpg" alt="rocket photo">
-									<h1>HELEN</h1>
-									<h2>Our world breaking achievement</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+									<!-- <img src="Pics/helen.jpg" alt="rocket photo"> -->
+									<h1 class="h1-exp">HELEN</h1>
+									<h2 class="h2-exp">Our world breaking achievement</h2>
+									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							<div class="gallery-cell">
+							<div class="gallery-cell gallery-experiment"  style="background-image: url('Pics//vesna3.png');">
 								<a href="vesna.php">
-									<img src="Pics/vesna3.png" alt="rocket photo">
-									<h1>VESNA</h1>
-									<h2>A highly-engineered mission</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+									<!-- <img src="Pics/vesna3.png" alt="rocket photo"> -->
+									<h1 class="h1-exp">VESNA</h1>
+									<h2 class="h2-exp">A highly-engineered mission</h2>
+									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							<div class="gallery-cell">
+							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/sunfire.png');">
 								<a href="sunfire.php">
-									<img src="Pics/sunfire.png" alt="rocket photo">
-									<h1>SunFire</h1>
-									<h2>Liquid Rocket Engine Sheffield Hallam University</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+									<!-- <img src="Pics/sunfire.png" alt="rocket photo"> -->
+									<h1 class="h1-exp">SunFire</h1>
+									<h2 class="h2-exp">Liquid Rocket Engine Sheffield Hallam University</h2>
+									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							<div class="gallery-cell">
+							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/karman2.jpg');">
 								<a href="karman.php">
-									<img src="Pics/karman2.jpg" alt="rocket photo">
-									<h1>Karman A.</h1>
-									<h2>Students Shot 2 Space</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+									<!-- <img src="Pics/karman2.jpg" alt="rocket photo"> -->
+									<h1 class="h1-exp">Karman A.</h1>
+									<h2 class="h2-exp">Students Shot 2 Space</h2>
+									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							<div class="gallery-cell">
+							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/jr.png');">
 								<a href="sunride.php">
-									<img src="Pics/jr.png" alt="rocket photo">
-									<h1>SunrIde Jr</h1>
-									<h2>Our Society Project</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+									<!-- <img src="Pics/jr.png" alt="rocket photo"> -->
+									<h1 class="h1-exp">SunrIde Jr</h1>
+									<h2 class="h2-exp">Our Society Project</h2>
+									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							<div class="gallery-cell">
+							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/EARL1.jpg');">
 								<a href="space.php">
-									<img src="Pics/EARL1.jpg" alt="rocket photo">
-									<h1>Space Dart</h1>
-									<h2>Spacefleet Ltd Partnership</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+									<!-- <img src="Pics/EARL1.jpg" alt="rocket photo"> -->
+									<h1 class="h1-exp">Space Dart</h1>
+									<h2 class="h2-exp">Spacefleet Ltd Partnership</h2>
+									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							<div class="gallery-cell">
+							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/amy.jpg');">
 								<a href="amy.php">
-									<img src="Pics/amy.jpg" alt="rocket photo">
-									<h1>AMY</h1>
-									<h2>Our first high powered rocket</h2>
-									<div class="read-more">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
+									<!-- <img src="Pics/amy.jpg" alt="rocket photo"> -->
+									<h1 class="h1-exp">AMY</h1>
+									<h2 class="h2-exp">Our first high powered rocket</h2>
+									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
 
@@ -218,10 +218,10 @@ $title = "Team SunrIde"
 
 					</div>
 
-					<div class="section-row-container div-color">
+					<div class="section-row-container full-4">
 
 
-						<section class="grid-1">
+						<section class="grid-1 exp">
 							<div class="item-1">
 								The first UK team in history to participate in the largest rocket engineering competition in the world.
 							</div>
@@ -282,18 +282,18 @@ $title = "Team SunrIde"
 							</div>
 						</section>
 						<section class="section div-color ">
-							<div class="row  div-color ">
-								<div class="col-xl-12 div-color ">
-									<div class="section-row-container div-color ">
+							<div class="row   ">
+								<div class="col-xl-12 ">
+									<div class="section-row-container full-4">
 
-										<div class="section-row half-padding-bottom div-color  ">
+										<div class=" half-padding-bottom   ">
 
-											<div class="container2 div-color">
+											<div class="container2 ">
 
 												<div class="row">
 
 													<div class="col-lg-12">
-													<h2 class="section-title">
+													<h2 class="section-title margin-top">
 																	<span data-shadow-text="News">News</span>
 																</h2>
 														<div class="grid-two">

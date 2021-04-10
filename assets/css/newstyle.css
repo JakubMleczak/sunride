@@ -16,7 +16,7 @@
     --primary-color: #9A97F3;
     --secondary-color: #818cab;
     --font-color: #e1e1ff;
-    --bg-color: #161625;
+    --bg-color: rgb(17, 17, 17);
     --heading-color: #818cab;
     --div-sec: #000013;
     --nav-color: #111;
@@ -796,7 +796,7 @@ body {
 .full-4 {
     /* padding-top: 50px; */
     min-height: 90vh;
-    background-image: url("../../Pics/helen2.jpg");
+    background-image: url("../../Pics/earth.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -867,5 +867,5 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("../../Pics/helen.jpg");
+    background-image: url("../../Pics/earth.jpg");
 }

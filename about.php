@@ -93,6 +93,20 @@ $title = "Team SunrIde"
 								</div>
 
 							</div>
+							<div class="grid margin-top">
+								
+								<div class="text-grid margin-top">
+									<h2 class="section-title">
+										<span data-shadow-text="About us">Sheffield Space Initiative</span>
+									</h2>
+									<p class="lead" style="text-align:justify;">
+										Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam consectetur architecto ullam, accusamus libero est consequuntur error voluptas quae fugiat delectus quaerat quo numquam officiis autem, ad praesentium sed laborum!
+									</p>
+								</div>
+								<div class="grid-img">
+									<img src="Pics/about3.jpg" alt="">
+								</div>
+							</div>
 
 							<div>
 								<div id="about-exe">
