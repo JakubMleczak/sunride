@@ -223,16 +223,16 @@ $title = "Team SunrIde"
 
 						<section class="grid-1 exp">
 							<div class="item-1">
-									SunrIde holds the UK National Altitude Record for rocketry since 2019 at 36,274ft reaching 2.67 Mach according to UKRA.
+								The first UK team in history to participate in the largest rocket engineering competition in the world.
 							</div>
 							<div class="item-2">
 								Award winner of the Best Flight Dynamics at Spaceport America Cup 2018 for achieving an accuracy of 99.83% at 10,000ft.
 							</div>
 							<div class="item-3">
-							The first UK team in history to participate in the largest rocket engineering competition in the world.
+								SunrIde holds the UK National Altitude Record for rocketry since 2019 at 36,274ft reaching 2.67 Mach according to UKRA.
 							</div>
 							<div class="item-4">
-								In 2023 SunrIde aspires to become the 1st UK University team to reach the Kármán line at 100km! (50 km test in 2022.)
+								In 2023 SunrIde aspires to become the 1st UK University team to reach the Kármán line at 100km! (50 km test in 2021.)
 							</div>
 
 						</section>
@@ -284,11 +284,11 @@ $title = "Team SunrIde"
 						<section class="section div-color ">
 							<div class="row   ">
 								<div class="col-xl-12 ">
-									<div class="section-row-container full-4 width-reset   ">
+									<div class="section-row-container full-4">
 
-										<div class=" half-padding-bottom  space ">
+										<div class=" half-padding-bottom   ">
 
-											<div class="container2 space">
+											<div class="container2 ">
 
 												<div class="row">
 

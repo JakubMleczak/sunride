@@ -44,7 +44,7 @@ $title = "Team SunrIde"
 
 								<div class="col-lg-12">
 
-									<h1 class="section-title">
+									<h1 class="section-title" id="get-in">
 										Get in touch
 										<small>Feel free to contact us if you have something to say!</small>
 									</h1>
@@ -79,7 +79,7 @@ $title = "Team SunrIde"
 
 
 							</div>
-							<div class="grid margin-top">
+							<div class="grid ">
 								<div class="grid-img">
 									<img src="4.jpg" alt="">
 								</div>
@@ -104,7 +104,7 @@ $title = "Team SunrIde"
 									</p>
 								</div>
 								<div class="grid-img">
-									<img src="Pics/about3.jpg" alt="">
+									<img src="demo/clients/out.jpg" alt="">
 								</div>
 							</div>
 

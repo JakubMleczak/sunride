@@ -46,6 +46,36 @@ $title = "Team SunrIde"
 								</h2>
 							</div>
 							<div class="partners-grid">
+							    <div>
+									<a href="https://www.shu.ac.uk/">
+										<div class="sponsor-img">
+
+											<img class="img-round-big small-img" style="max-width:300px;" src="demo/clients/11.png" alt="ACSE">
+
+										</div>
+									</a>
+									<div class="info">
+										<h3>Sheffield Hallam</h3>
+										<p>
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor neque vel nisl mattis efficitur. Pellentesque sit amet metus sed metus aliquet aliquet. Phasellus non cursus dui. Praesent tellus leo, porta eu lacus quis, tempus faucibus felis. Cras in auctor mauris. Praesent mattis mi vitae mauris dictum fringilla.
+										</p>
+									</div>
+								</div>
+								<div>
+									<a href="https://www.kingston.ac.uk/">
+										<div class="sponsor-img">
+
+											<img class="img-round-big small-img"  src="demo/clients/13.jpg" alt="ACSE">
+
+										</div>
+									</a>
+									<div class="info">
+										<h3>Kingston University</h3>
+										<p>
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor neque vel nisl mattis efficitur. Pellentesque sit amet metus sed metus aliquet aliquet. Phasellus non cursus dui. Praesent tellus leo, porta eu l
+										</p>
+									</div>
+								</div>
 								<div>
 									<a href="https://sunsat.group.shef.ac.uk/">
 										<div class="sponsor-img">
@@ -96,7 +126,7 @@ $title = "Team SunrIde"
 										</p>
 									</div>
 								</div>
-
+                                
 							</div>
 
 

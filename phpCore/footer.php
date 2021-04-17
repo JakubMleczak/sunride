@@ -11,12 +11,11 @@
 		
 
 			<div class="footer-grid">
-				
-				<div class="uos">
-					<a href="https://www.sheffield.ac.uk/"><img src="demo/TEST/uos.png" alt=""></a>
-				</div>
 				<div class="footer-logo">
 					<a href="http://ssi.group.shef.ac.uk/"><img src="demo/TEST/SSI.png" alt=""></a>
+				</div>
+				<div class="uos">
+					<a href="https://www.sheffield.ac.uk/"><img src="demo/TEST/uos.png" alt=""></a>
 				</div>
 				<div class="shu">
 					<a href="https://www.shu.ac.uk/"><img src="demo/TEST/shu.png" alt=""></a>

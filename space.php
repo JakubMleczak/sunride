@@ -68,18 +68,30 @@ $title = "Team SunrIde"
 							</div>
 
 							
-								<div class="red-butt">
-								<a class="red-butta" href="">
-									Publications and Reports
-									</a>
-								</div>
-						
-							
-								<div class="red-butt">
-								<a class="red-butta" href="gallery.php">
-									Gallery
-									</a>
-								</div>
+								<a class="button-mid" href="">
+							    	<div class="icon-box" data-animation-name="fadeInUp" style="">
+										<div class="icon">
+											<i class="gi gi-folder-open"></i>
+										</div>
+										<div class="info color-font">
+											<h4>Publications and Reports</h4>
+											
+										</div>
+									</div>
+								
+							</a>
+							<a class="button-mid" href="gallery.php">
+							    	<div class="icon-box" data-animation-name="fadeInUp" style="">
+										<div class="icon">
+											<i class="gi gi-camera"></i>
+										</div>
+										<div class="info color-font">
+											<h4>Gallery</h4>
+											
+										</div>
+									</div>
+								
+							</a>
 															
 						</div>
 
