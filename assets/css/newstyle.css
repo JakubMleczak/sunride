@@ -1,6 +1,6 @@
 /* Dark mode colors */
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Cutive+Mono&family=Zen+Dots&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Cutive+Mono&family=Zen+Dots&display=swap');
 :root {
     --primary-color: #302AE6;
     --secondary-color: #536390;
@@ -57,7 +57,7 @@
 }
 
 .gallery-cell h1 {
-       font-size: 40px;
+    font-size: 40px;
     text-align: center;
     color: rgb(255 255 255);
     margin: 20px;
@@ -66,15 +66,14 @@
     font-weight: bold;
     background-color: #000000ad;
     border-radius: 80px;
-    padding:5px;
- font-size: min(max(2.3vw, 20px), 25px);
-   
+    padding: 5px;
+    font-size: min(max(2.3vw, 20px), 25px);
 }
 
 .gallery-cell h2 {
     font-size: 20px;
     color: rgb(78, 78, 78);
-    text-align: left;
+    text-align: center;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -100,7 +99,6 @@
     line-height: 200px;
     font-size: 80px;
     color: white;
-  
 }
 
 .reduce {
@@ -239,7 +237,7 @@ nav {
 
 .sponsor {
     background-color: rgb(255, 70, 70);
-    max-width: 500px;
+    max-width:400px;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -258,11 +256,11 @@ nav {
 
 @media screen and ( min-width: 768px) {
     .sponsor a h2 {
-        font-size: 60px;
+        font-size: 50px;
     }
     .sponsor {
         background-color: rgb(255, 70, 70);
-        max-width: 400px;
+        max-width: 350px;
         margin: auto;
     }
 }
@@ -310,16 +308,25 @@ nav {
 
 /* footer */
 
+.site-footer {
+    padding: 0px;
+}
+
 .footer-grid {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     column-gap: 40px;
-    row-gap: 45px;
+    row-gap: 25px;
+    padding-top: 20px;
 }
 
 .footer-grid div img {
-    max-height: 100px;
+    max-height: 80px;
     width: auto;
+}
+
+.site-footer .footer-logo {
+    margin-bottom: 5px;
 }
 
 .row p {
@@ -505,7 +512,9 @@ body {
 .top-margin {
     margin-top: 50px;
 }
-
+.top-margin-small {
+    margin-top: 10px;
+}
 .bottom-margin {
     margin-bottom: 50px;
 }
@@ -529,38 +538,40 @@ body {
     height: 100%;
     color: black;
 }
-.button-mid{
-    float:left;
-    min-width:200px;
-    font-size:30px;
-    margin:50px;
-    font-weight:bold;
-    display:block;
-}
-.button-mid .info:hover{
-   color:red !important;
+
+.button-mid {
+    float: left;
+    min-width: 200px;
+    font-size: 30px;
+    margin: 50px;
+    font-weight: bold;
+    display: block;
 }
 
-.button-mid icon-box:hover{
-   color:red !important;
-    
-}
-.color-font h4:hover{
-       color:red !important;
-}
-.color-font h4{
-    color:  var(--font-color);
-    font-size:27px;
-        margin-left:30px;
-    
-}
-.button-mid .icon{
-    float:left;
-    color:red;
-    font-size:33px; 
-    margin-left:30px;
+.button-mid .info:hover {
+    color: red !important;
 }
 
+.button-mid icon-box:hover {
+    color: red !important;
+}
+
+.color-font h4:hover {
+    color: red !important;
+}
+
+.color-font h4 {
+    color: var(--font-color);
+    font-size: 27px;
+    margin-left: 30px;
+}
+
+.button-mid .icon {
+    float: left;
+    color: red;
+    font-size: 33px;
+    margin-left: 30px;
+}
 
 .red-butt:hover {
     background-color: rgb(168, 63, 63);
@@ -753,7 +764,9 @@ body {
 .margin-top {
     margin-top: 50px;
 }
-
+.padding-top{
+    padding-top: 50px;
+}
 /* partners */
 
 .partners-grid {
@@ -857,30 +870,33 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-   
-    
-}
-.exp div{
-    background-color:  #000f27 !important;
-}
-.gallery-experiment:hover {
-    background-blend-mode: soft-light;
 }
 
-.gallery-experiment:hover .h1-exp {
+.exp div {
+    background-color: #000f27 !important;
+}
+
+.gallery-experiment:hover {
+    background-blend-mode: soft-light;
+    background-color: rgba(255, 255, 255, 0.842);
+}
+
+/* .gallery-experiment:hover .h1-exp {
     position: relative;
     bottom:unset;
     right: unset;
     margin-top: 100px;
   
-}
+} */
 
 .gallery-experiment .h1-exp {
-    position: relative;
-    margin-top: 300px;
+    position:absolute;
+    bottom: 50px;
+    width: 80%;
+    right: 7%;
+    /* margin-top: 300px; */
     /* right: 25%; */
     text-align: center;
-     transition: position 3.5s ease;
 }
 
 .gallery-experiment .h2-exp {
@@ -891,7 +907,8 @@ body {
     display: block;
     position: relative;
     text-align: center;
-    
+    margin-top: 130px;
+    font-size: 27px;
 }
 
 .gallery-experiment .read-exp {
@@ -901,7 +918,8 @@ body {
 .gallery-experiment:hover .read-exp {
     display: initial;
 }
-.img-back{
+
+.img-back {
     /* background-position: 50% 0px; */
     background-position: center;
     background-attachment: fixed;
@@ -909,10 +927,28 @@ body {
     background-size: cover;
     background-image: url("../../Pics/earth.jpg");
 }
-#get-in{
-    margin:0;
+
+#get-in {
+    margin: 0;
 }
-.width-reset
-{
-         min-height: inherit;
+
+.width-reset {
+    min-height: inherit;
+}
+
+#news {
+    color: white;
+}
+
+.white {
+    color: white;
+}
+.active {
+    color:            #900000;
+    
+}
+.font{
+    font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    
 }

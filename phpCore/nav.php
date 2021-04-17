@@ -40,7 +40,7 @@
 								</a>
 							</li>
 							<li>
-								<a href="#">
+								<a href="society.php">
 									Society
 								</a>
 							</li>
@@ -54,7 +54,7 @@
 										<input type="checkbox" id="checkbox" />
 										<div class="slider round"></div>
 									</label>
-									<em>Dark Mode</em>
+									<em><span class="font">Dark Mode</span></em>
 								</div>
 
 							</li>
@@ -70,6 +70,15 @@
 		</div>
 
 	</div>
-
+	<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+    $(function(){
+        $('a').each(function(){
+            if ($(this).prop('href') == window.location.href) {
+                $(this).addClass('active'); $(this).parents('li').addClass('active');
+            }
+        });
+    });
+</script>
 
 </header>

@@ -122,7 +122,7 @@ $title = "Team SunrIde"
 		</div>
 
 
-		<div class="splash-media splash-media-img has-bg img-back" >
+		<div class="splash-media splash-media-img has-bg img-back">
 			<!-- change the url("") for different background using the full directory -->
 			<div class="overlay"></div>
 		</div>
@@ -158,56 +158,63 @@ $title = "Team SunrIde"
 							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/helen.jpg');">
 								<a href="helen.php">
 									<!-- <img src="Pics/helen.jpg" alt="rocket photo"> -->
-									<h1 class="h1-exp">HELEN</h1>
 									<h2 class="h2-exp">Our world breaking achievement</h2>
+									<h1 class="h1-exp">HELEN</h1>
+
 									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
-							<div class="gallery-cell gallery-experiment"  style="background-image: url('Pics//vesna3.png');">
+							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics//vesna3.png');">
 								<a href="vesna.php">
 									<!-- <img src="Pics/vesna3.png" alt="rocket photo"> -->
-									<h1 class="h1-exp">VESNA</h1>
 									<h2 class="h2-exp">A highly-engineered mission</h2>
+									<h1 class="h1-exp">VESNA</h1>
+									
 									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
 							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/sunfire.png');">
 								<a href="sunfire.php">
 									<!-- <img src="Pics/sunfire.png" alt="rocket photo"> -->
-									<h1 class="h1-exp">SunFire</h1>
 									<h2 class="h2-exp">Liquid Rocket Engine Sheffield Hallam University</h2>
+									<h1 class="h1-exp">SunFire</h1>
+
 									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
 							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/karman2.jpg');">
 								<a href="karman.php">
+									<h2 class="h2-exp">Students Shot 2 Space</h2>
 									<!-- <img src="Pics/karman2.jpg" alt="rocket photo"> -->
 									<h1 class="h1-exp">Karman A.</h1>
-									<h2 class="h2-exp">Students Shot 2 Space</h2>
+
 									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
 							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/jr.png');">
 								<a href="sunride.php">
+									<h2 class="h2-exp">Our Society Project</h2>
 									<!-- <img src="Pics/jr.png" alt="rocket photo"> -->
 									<h1 class="h1-exp">SunrIde Jr</h1>
-									<h2 class="h2-exp">Our Society Project</h2>
+
 									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
 							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/EARL1.jpg');">
 								<a href="space.php">
+									<h2 class="h2-exp">Spacefleet Ltd Partnership</h2>
 									<!-- <img src="Pics/EARL1.jpg" alt="rocket photo"> -->
 									<h1 class="h1-exp">Space Dart</h1>
-									<h2 class="h2-exp">Spacefleet Ltd Partnership</h2>
+
 									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
 							<div class="gallery-cell gallery-experiment" style="background-image: url('Pics/amy.jpg');">
 								<a href="amy.php">
+									<h2 class="h2-exp">Our first high powered rocket</h2>
 									<!-- <img src="Pics/amy.jpg" alt="rocket photo"> -->
 									<h1 class="h1-exp">AMY</h1>
-									<h2 class="h2-exp">Our first high powered rocket</h2>
+
 									<div class="read-more read-exp">Read more <img class="arrow" src="assets/icons/arrow.png" alt="arrow"> </div>
 								</a>
 							</div>
@@ -223,13 +230,13 @@ $title = "Team SunrIde"
 
 						<section class="grid-1 exp">
 							<div class="item-1">
-									SunrIde holds the UK National Altitude Record for rocketry since 2019 at 36,274ft reaching 2.67 Mach according to UKRA.
+								SunrIde holds the UK National Altitude Record for rocketry since 2019 at 36,274ft reaching 2.67 Mach according to UKRA.
 							</div>
 							<div class="item-2">
 								Award winner of the Best Flight Dynamics at Spaceport America Cup 2018 for achieving an accuracy of 99.83% at 10,000ft.
 							</div>
 							<div class="item-3">
-							The first UK team in history to participate in the largest rocket engineering competition in the world.
+								The first UK team in history to participate in the largest rocket engineering competition in the world.
 							</div>
 							<div class="item-4">
 								In 2023 SunrIde aspires to become the 1st UK University team to reach the Kármán line at 100km! (50 km test in 2022.)
@@ -293,16 +300,16 @@ $title = "Team SunrIde"
 												<div class="row">
 
 													<div class="col-lg-12">
-													<h2 class="section-title margin-top">
-																	<span data-shadow-text="News">News</span>
-																</h2>
+														<h2 class="section-title margin-top">
+															<span data-shadow-text="News" id="news">News</span>
+														</h2>
 														<div class="grid-two">
 															<div>
 																<iframe src="https://www.youtube.com/embed/OwXrTvRiIgQ" width="560" height="315" frameBorder="0" autoplay="disabled" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 															</div>
 															<div>
 
-																<iframe width="560" height="315"  src="https://www.youtube.com/embed/Iz9NOh_zJec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+																<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz9NOh_zJec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 															</div>
 
 														</div>
@@ -320,9 +327,9 @@ $title = "Team SunrIde"
 						<section class="section">
 							<div class="row">
 								<div class="col-xl-12">
-									<div class="section-row-container">
+									<div class="section-row-container margin-top">
 
-										<div class="section-row half-padding-bottom ">
+										<div >
 
 											<div class="container2 ">
 
@@ -357,7 +364,7 @@ $title = "Team SunrIde"
 					<div class="col-xl-12">
 						<div class="section-row-container">
 
-							<div class="top-margin">
+							<div class="top-margin-small">
 
 								<div class="container2">
 
@@ -557,6 +564,20 @@ $title = "Team SunrIde"
 										<div class="info">
 											<h4>Arundal Astronautics</h4>
 											<p>Arundal Astronautics</p>
+										</div>
+									</div>
+									<div>
+										<a href="https://www.pcbway.com/?adwgc=666&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-17918856&loc_physical_ms=9046363&matchtype=b&network=g&device=c&devicemodel=&creative=347469560617&keyword=pcb%20prototype&placement=&target=&adposition=&gclid=CjwKCAjwjuqDBhAGEiwAdX2cj92MmGg5HGoVaeKDeZPSITSosZdBAUP2bKqhNHSAzluRiSxOeSwvBhoC9NYQAvD_BwE">
+											<div class="sponsor-img">
+
+												<img class="img-round-mid small-img" src="demo/clients/pcb.png" alt="ALUMNI FOUNDATION">
+
+											</div>
+										</a>
+
+										<div class="info">
+											<h4>PCBWAY</h4>
+											<p>PCBWAY</p>
 										</div>
 									</div>
 								</div>
